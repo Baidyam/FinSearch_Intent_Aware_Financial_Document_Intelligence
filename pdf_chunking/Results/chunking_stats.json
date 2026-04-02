@@ -1,0 +1,40 @@
+{
+  "strategies": {
+    "S1: Sliding-512": {
+      "total_chunks": 3658,
+      "avg_words": 509.8,
+      "min_words": 137,
+      "max_words": 512,
+      "by_category": {
+        "Consumer_Protection": 186,
+        "Payment_Industry": 1396,
+        "Regulatory": 2022,
+        "Synthetic_Policies": 54
+      }
+    },
+    "S2: Sliding-256": {
+      "total_chunks": 7305,
+      "avg_words": 255.5,
+      "min_words": 70,
+      "max_words": 256,
+      "by_category": {
+        "Consumer_Protection": 370,
+        "Payment_Industry": 2788,
+        "Regulatory": 4042,
+        "Synthetic_Policies": 105
+      }
+    },
+    "S3: Paragraph": {
+      "total_chunks": 2761,
+      "avg_words": 507.7,
+      "min_words": 9,
+      "max_words": 512,
+      "by_category": {
+        "Consumer_Protection": 141,
+        "Payment_Industry": 1048,
+        "Regulatory": 1519,
+        "Synthetic_Policies": 53
+      }
+    }
+  }
+}
