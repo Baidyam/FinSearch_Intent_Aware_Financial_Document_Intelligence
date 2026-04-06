@@ -17,8 +17,7 @@ FinSearch/
 ├── Dataset/                    # FiQA corpus + PDF knowledge base
 ├── config.py                   # Central path config
 ├── requirements.txt
-├── poster_plots.py             # Generates all comparison charts → visualization/
-└── visualization/              # All experiment comparison charts
+└── visualization/              # All experiment comparison charts + generation script
 ```
 
 ---
@@ -283,7 +282,8 @@ GROQ_API_KEY=your_key_here
 
 ### 4. Generate comparison charts
 ```bash
-python3 poster_plots.py
+cd visualization
+python3 experiment_visualization.py
 # Saves 4 charts to: visualization/
 ```
 
