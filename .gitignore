@@ -214,6 +214,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Fine-tuning model weights — too large for GitHub
+fine_tuning/minilm_finetuned/model.safetensors
+fine_tuning/s4_corpus.csv
+fine_tuning/training_pairs.csv
+
 # Model checkpoints — too large for GitHub
 intent_classification/minilm_intent_classifier/checkpoint-*/
 intent_classification/minilm_pdf_domain/checkpoint-*/

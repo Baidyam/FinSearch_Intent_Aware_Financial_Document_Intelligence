@@ -1,0 +1,9 @@
+{
+  "base_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "saved_to": "fine_tuning/minilm_finetuned",
+  "training_pairs": 10186,
+  "epochs": 3,
+  "batch_size": 32,
+  "loss": "MultipleNegativesRankingLoss",
+  "data_source": "Groq-generated questions mapped to S4 chunks from 41 PDFs"
+}

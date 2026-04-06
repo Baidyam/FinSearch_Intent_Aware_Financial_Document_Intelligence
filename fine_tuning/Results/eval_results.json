@@ -1,0 +1,16 @@
+{
+  "eval_set": "synthetic_qa_pdf.json (20 pairs)",
+  "base_minilm": {
+    "recall@10": 0.5,
+    "mrr": 0.3708
+  },
+  "finetuned_minilm": {
+    "recall@10": 0.5,
+    "mrr": 0.3563
+  },
+  "improvement": {
+    "recall@10": 0.0,
+    "mrr": -0.0145
+  },
+  "winner": "Fine-Tuned MiniLM"
+}
