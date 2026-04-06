@@ -221,6 +221,45 @@ Two rerankers were tried head-to-head:
 
 > Training on diverse data (Banking77 conversational + PDF-domain formal questions) generalizes better than PDF-only. Zero-Shot DeBERTa fails almost entirely on domain-specific routing — general NLI models are not suited for fine-grained financial category classification.
 
+### How Intent Classifier Integrates into the B1 Pipeline
+
+```
+User Query
+    │
+    ▼
+┌─────────────────────────────────────────────────────┐
+│  Fine-Tuned MiniLM Intent Classifier                │
+│  (Banking77 + Groq PDF, 90% QA accuracy)            │
+│                                                     │
+│  → Regulatory           → Consumer Protection       │
+│  → Payment Industry     → Synthetic Policies        │
+└──────────────────┬──────────────────────────────────┘
+                   │  Predicted category
+                   ▼
+┌─────────────────────────────────────────────────────┐
+│  Category-Filtered Knowledge Base                   │
+│  41 PDFs → S4 Token-Exact chunks (400 tokens)       │
+│  Only the relevant category's FAISS index is used   │
+└──────────────────┬──────────────────────────────────┘
+                   │
+                   ▼
+┌─────────────────────────────────────────────────────┐
+│  B1 Retrieval Pipeline                              │
+│                                                     │
+│  [1] Query Expansion   — Groq LLaMA 3.3 70B         │
+│  [2] Dense Retrieval   — BGE-Large FAISS (Top-50)   │
+│  [3] LLM Reranking     — Mistral Large (Top-10)     │
+│  [4] Answer Generation — Groq LLaMA 3.3 70B         │
+│  [5] Confidence Score  — DeBERTa NLI (HIGH/MED/LOW) │
+└──────────────────┬──────────────────────────────────┘
+                   │
+                   ▼
+          Grounded Financial Answer
+          + Confidence Label
+```
+
+**Why routing matters:** Without intent classification, the retrieval searches across all 41 PDFs (4 categories mixed). With routing, it searches only the relevant category — reducing noise, improving precision, and cutting retrieval latency.
+
 ---
 
 ## What's Next — Remaining Work
