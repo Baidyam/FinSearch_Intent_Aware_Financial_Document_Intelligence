@@ -1,0 +1,17 @@
+{
+  "chatbot_quality": {
+    "test_set_size": 30,
+    "in_scope": 24,
+    "oos": 6,
+    "faithfulness": 3.167,
+    "completeness": 2.792,
+    "tone": 4.917,
+    "citation_rate": 37.5,
+    "oos_accuracy": 83.3,
+    "confidence_dist": {
+      "HIGH": 11,
+      "MEDIUM": 5,
+      "LOW": 3
+    }
+  }
+}

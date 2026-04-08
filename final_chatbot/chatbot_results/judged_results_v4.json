@@ -1,0 +1,818 @@
+[
+  {
+    "idx": 0,
+    "category": "Regulatory",
+    "question": "How does a creditor determine the interest rate for disclosure purposes when calculating the minimum payment, and what factors do they consider? What if there's no lifetime interest rate cap on the loan?",
+    "expected_answer": "When disclosing the minimum payment, the creditor assumes the interest rate will decrease as rapidly as possible after consummation, considering any introductory rates. For loans with no lifetime interest rate cap, the maximum rate is determined by other applicable laws, such as state usury law. The creditor must take into account the terms of the legal obligation, including any applicable caps on interest rate adjustments.",
+    "chatbot_response": "I want to be transparent \u2014 my confidence in this answer is moderate, as the available documents provide only partial coverage of your question. I'd encourage you to verify the details with a specialist or review the source documents directly.\n\nI understand that navigating the complexities of financial regulations can be overwhelming, and I'm here to help you make sense of it all. When calculating the minimum payment for disclosure purposes, the creditor assumes that the interest rate will decrease as rapidly as possible after consummation, taking into account any introductory rates, caps on interest rate adjustments, and lifetime interest rate floor [Source: s4_reg_regulation_z_4023]. For an adjustable rate loan based on an index that has no lifetime interest rate floor, the minimum interest rate is equal to the margin [Source: s4_reg_regulation_z_4023]. In the absence of a lifetime interest rate cap, the maximum rate is determined by reference to other applicable laws, such as state usury law [Source: s4_reg_regulation_z_4023]. The creditor should consider the terms of the legal obligation, including any applicable caps on interest rate adjustments, when determining the interest rate for disclosure purposes [Source: s4_reg_regulation_z_4023]. If the loan program includes a discounted or premium initial interest rate, the initial interest rate should be adjusted by the amount of the discount or premium [Source: s4_reg_regulation_z_2925]. Don't worry if you're still unsure about any of these details - I'm here to help you break down the information and provide further clarification if you need it!",
+    "raw_answer": "I understand that navigating the complexities of financial regulations can be overwhelming, and I'm here to help you make sense of it all. When calculating the minimum payment for disclosure purposes, the creditor assumes that the interest rate will decrease as rapidly as possible after consummation, taking into account any introductory rates, caps on interest rate adjustments, and lifetime interest rate floor [Source: s4_reg_regulation_z_4023]. For an adjustable rate loan based on an index that has no lifetime interest rate floor, the minimum interest rate is equal to the margin [Source: s4_reg_regulation_z_4023]. In the absence of a lifetime interest rate cap, the maximum rate is determined by reference to other applicable laws, such as state usury law [Source: s4_reg_regulation_z_4023]. The creditor should consider the terms of the legal obligation, including any applicable caps on interest rate adjustments, when determining the interest rate for disclosure purposes [Source: s4_reg_regulation_z_4023]. If the loan program includes a discounted or premium initial interest rate, the initial interest rate should be adjusted by the amount of the discount or premium [Source: s4_reg_regulation_z_2925]. Don't worry if you're still unsure about any of these details - I'm here to help you break down the information and provide further clarification if you need it!",
+    "intent_predicted": "Regulatory",
+    "intent_conf": 0.8746822476387024,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.3765,
+      "faithfulness_confidence": 0.5473,
+      "final_confidence": 0.479,
+      "label": "MEDIUM"
+    },
+    "top_chunk_ids": [
+      "s4_reg_regulation_z_4023",
+      "s4_reg_regulation_z_2924",
+      "s4_reg_regulation_z_2925"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately addresses the question, covering all key points, and provides a professional tone with appropriate citations to support the information."
+    }
+  },
+  {
+    "idx": 1,
+    "category": "Regulatory",
+    "question": "What are the requirements for disclosing late payment fees and penalty rates in lending documents under Regulation Z, and how should the text be formatted? I want to make sure I'm complying with the regulations.",
+    "expected_answer": "The disclosure of late payment fees and penalty rates must be made on the same line in tables due to their brief nature. The text must be displayed in a standard 10-point type or larger, with sufficient white space around the text and sufficient contrast between the text and the background. Additionally, the text should not be compressed to appear smaller than 10-point type, and sufficient margins should be provided above, below, and to the sides of the text.",
+    "chatbot_response": "I understand your concern about complying with the regulations, and I'm here to help you navigate the requirements for disclosing late payment fees and penalty rates in lending documents under Regulation Z. The forms must disclose two components: the late payment fee and the cross-reference to the penalty rate, which can be disclosed on the same line in the tables [Source: s4_reg_regulation_z_6124]. The text should have standard spacing between words and characters, and not be compressed to appear smaller than 10-point type [Source: s4_reg_regulation_z_6124]. Sufficient white space should be provided around the text of the information in each row, with margins above, below, and to the sides of the text [Source: s4_reg_regulation_z_6124]. The text should also have sufficient contrast between the text and the background, with black text on white paper being a common choice [Source: s4_reg_regulation_z_6124]. The due date for a payment, if a late payment fee or penalty rate may be imposed, must appear on the front of the first page of the statement [Source: s4_reg_regulation_z_6130]. Guidance on disclosing late payment fees can be found in the commentary to 1026.37(m)(4) [Source: s4_reg_regulation_z_4344]. The disclosure of the address for the property that secures the credit is required under section 1026.38(l)(6) [Source: s4_reg_regulation_z_4344]. If you have any further questions or need help with formatting your lending documents, I'm here to assist you and ensure you're meeting the necessary requirements.",
+    "raw_answer": "I understand your concern about complying with the regulations, and I'm here to help you navigate the requirements for disclosing late payment fees and penalty rates in lending documents under Regulation Z. The forms must disclose two components: the late payment fee and the cross-reference to the penalty rate, which can be disclosed on the same line in the tables [Source: s4_reg_regulation_z_6124]. The text should have standard spacing between words and characters, and not be compressed to appear smaller than 10-point type [Source: s4_reg_regulation_z_6124]. Sufficient white space should be provided around the text of the information in each row, with margins above, below, and to the sides of the text [Source: s4_reg_regulation_z_6124]. The text should also have sufficient contrast between the text and the background, with black text on white paper being a common choice [Source: s4_reg_regulation_z_6124]. The due date for a payment, if a late payment fee or penalty rate may be imposed, must appear on the front of the first page of the statement [Source: s4_reg_regulation_z_6130]. Guidance on disclosing late payment fees can be found in the commentary to 1026.37(m)(4) [Source: s4_reg_regulation_z_4344]. The disclosure of the address for the property that secures the credit is required under section 1026.38(l)(6) [Source: s4_reg_regulation_z_4344]. If you have any further questions or need help with formatting your lending documents, I'm here to assist you and ensure you're meeting the necessary requirements.",
+    "intent_predicted": "Regulatory",
+    "intent_conf": 0.8046828508377075,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.4222,
+      "faithfulness_confidence": 0.9957,
+      "final_confidence": 0.7663,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_reg_regulation_z_6124",
+      "s4_reg_regulation_z_6130",
+      "s4_reg_regulation_z_4344"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately and thoroughly addresses the user's question about disclosing late payment fees and penalty rates in lending documents under Regulation Z, providing relevant citations and a professional tone."
+    }
+  },
+  {
+    "idx": 2,
+    "category": "Regulatory",
+    "question": "How do card issuers allocate excess payments to different balances on a credit card account under an open-end consumer credit plan? Are there any special rules I should be aware of?",
+    "expected_answer": "The card issuer must allocate the excess amount first to the balance with the highest annual percentage rate and any remaining portion to the other balances in descending order based on the applicable annual percentage rate. There are special rules for accounts with balances subject to deferred interest or similar programs, which provide that a consumer will not be obligated to pay interest under certain conditions. These rules apply to credit card accounts under open-end, not home-secured, consumer credit plans. The specific details of these special rules are not fully outlined in this excerpt, but they do exist for certain types of accounts.",
+    "chatbot_response": "I'm here to help you understand how card issuers allocate excess payments to different balances on your credit card account, and I'll guide you through the rules and regulations that apply. When a card issuer receives an excess payment, they must allocate the excess amount first to the balance with the highest annual percentage rate and any remaining portion to the other balances in descending order based on the applicable annual percentage rate [Source: s4_reg_regulation_z_1189]. However, there are special rules that apply to accounts with balances subject to deferred interest or similar programs, where the card issuer must allocate any amount paid by the consumer in excess of the required minimum periodic payment consistent with the general rule, except during the last two billing cycles [Source: s4_reg_regulation_z_1189]. The card issuer may also, at its option, allocate any amount paid by the consumer in excess of the required minimum periodic payment among the balances on the account in the manner requested by the consumer [Source: s4_reg_regulation_z_1191]. Additionally, when a balance on a credit card account is secured, the card issuer may allocate any amount paid by the consumer in excess of the required minimum periodic payment to that balance if requested by the consumer [Source: s4_reg_regulation_z_1191]. It's also important to note that these rules continue to apply to a balance on a credit card account even after the account is closed or acquired by another creditor, or the balance is transferred to another credit account [Source: s4_reg_regulation_z_1211]. If you have any more questions or need further clarification on how card issuers allocate excess payments, I'm here to help and provide more information to ensure you understand your rights and options.",
+    "raw_answer": "I'm here to help you understand how card issuers allocate excess payments to different balances on your credit card account, and I'll guide you through the rules and regulations that apply. When a card issuer receives an excess payment, they must allocate the excess amount first to the balance with the highest annual percentage rate and any remaining portion to the other balances in descending order based on the applicable annual percentage rate [Source: s4_reg_regulation_z_1189]. However, there are special rules that apply to accounts with balances subject to deferred interest or similar programs, where the card issuer must allocate any amount paid by the consumer in excess of the required minimum periodic payment consistent with the general rule, except during the last two billing cycles [Source: s4_reg_regulation_z_1189]. The card issuer may also, at its option, allocate any amount paid by the consumer in excess of the required minimum periodic payment among the balances on the account in the manner requested by the consumer [Source: s4_reg_regulation_z_1191]. Additionally, when a balance on a credit card account is secured, the card issuer may allocate any amount paid by the consumer in excess of the required minimum periodic payment to that balance if requested by the consumer [Source: s4_reg_regulation_z_1191]. It's also important to note that these rules continue to apply to a balance on a credit card account even after the account is closed or acquired by another creditor, or the balance is transferred to another credit account [Source: s4_reg_regulation_z_1211]. If you have any more questions or need further clarification on how card issuers allocate excess payments, I'm here to help and provide more information to ensure you understand your rights and options.",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.6949145197868347,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.5449,
+      "faithfulness_confidence": 0.8945,
+      "final_confidence": 0.7547,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_reg_regulation_z_1189",
+      "s4_reg_regulation_z_1191",
+      "s4_reg_regulation_z_1211"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 4,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately and completely covers the key points from the expected answer, including special rules and citations to relevant regulations, while maintaining a professional tone."
+    }
+  },
+  {
+    "idx": 3,
+    "category": "Regulatory",
+    "question": "How do I disclose the total of payments in a financial document, and are there any specific requirements I need to follow? What about variable rate features?",
+    "expected_answer": "The total of payments must be disclosed using that term, along with a descriptive phrase similar to the one in the regulation. The descriptive explanation may be revised to reflect a variable rate feature with a brief description. This disclosure is required under paragraph 18(h) and applies separately from the payment schedule disclosure in section 1026.18(g)(2).",
+    "chatbot_response": "I understand that creating a financial document can be a complex task, and it's great that you're taking the time to ensure you're following the correct procedures. The total of payments must be disclosed using that term, along with a descriptive phrase similar to the one in the regulation, and the descriptive explanation may be revised to reflect a variable rate feature with a brief phrase such as based on the current annual percentage rate which may change [Source: s4_reg_regulation_z_2771]. The total of payments is the sum of the payments disclosed under 1026.18(g), and for example, if the creditor disclosed a deferred portion of the downpayment as part of the payment schedule, that payment must be reflected in the total disclosed [Source: s4_reg_regulation_z_2771]. When disclosing variable rate features, the creditor must disclose the rules relating to this feature, including the period during which the option can be selected, the length of time over which repayment can occur, any fees imposed for such a feature, and the specific rate or a description of the index and margin that will apply upon exercise of this choice [Source: s4_reg_regulation_z_4486]. The index and margin disclosure might state that if the fixed rate is to be determined according to an index, it must be one that is outside the creditor's control [Source: s4_reg_regulation_z_4486]. Additionally, sample forms in appendix G-14 provide illustrative guidance on the variable-rate rules, and the creditor is not required to disclose a specific value for the margin [Source: s4_reg_regulation_z_4509]. I'm here to help you with any further questions or concerns you may have about creating your financial document, so please don't hesitate to ask.",
+    "raw_answer": "I understand that creating a financial document can be a complex task, and it's great that you're taking the time to ensure you're following the correct procedures. The total of payments must be disclosed using that term, along with a descriptive phrase similar to the one in the regulation, and the descriptive explanation may be revised to reflect a variable rate feature with a brief phrase such as based on the current annual percentage rate which may change [Source: s4_reg_regulation_z_2771]. The total of payments is the sum of the payments disclosed under 1026.18(g), and for example, if the creditor disclosed a deferred portion of the downpayment as part of the payment schedule, that payment must be reflected in the total disclosed [Source: s4_reg_regulation_z_2771]. When disclosing variable rate features, the creditor must disclose the rules relating to this feature, including the period during which the option can be selected, the length of time over which repayment can occur, any fees imposed for such a feature, and the specific rate or a description of the index and margin that will apply upon exercise of this choice [Source: s4_reg_regulation_z_4486]. The index and margin disclosure might state that if the fixed rate is to be determined according to an index, it must be one that is outside the creditor's control [Source: s4_reg_regulation_z_4486]. Additionally, sample forms in appendix G-14 provide illustrative guidance on the variable-rate rules, and the creditor is not required to disclose a specific value for the margin [Source: s4_reg_regulation_z_4509]. I'm here to help you with any further questions or concerns you may have about creating your financial document, so please don't hesitate to ask.",
+    "intent_predicted": "Regulatory",
+    "intent_conf": 0.8711655139923096,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.3945,
+      "faithfulness_confidence": 0.9913,
+      "final_confidence": 0.7526,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_reg_regulation_z_2771",
+      "s4_reg_regulation_z_4486",
+      "s4_reg_regulation_z_4509"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 4,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately and thoroughly addresses the question, providing relevant details and citations, while maintaining a professional tone with a slight touch of empathy at the beginning."
+    }
+  },
+  {
+    "idx": 4,
+    "category": "Regulatory",
+    "question": "What are the model forms required for remittance transfers exchanged into local currency under the Electronic Fund Transfer Act, and where can I find more information?",
+    "expected_answer": "The model forms required for remittance transfers exchanged into local currency include prepayment disclosures, receipts, combined disclosures, and error resolution and cancellation disclosures, which can be found in sections 12 CFR 1005.31(b)(1), 12 CFR 1005.31(b)(2), 12 CFR 1005.31(b)(3), and 12 CFR 1005.31(b)(4) respectively. These forms are provided in Spanish and are referenced in the provided regulatory excerpt.",
+    "chatbot_response": "I'm here to help you navigate the complexities of financial regulations, and I'm happy to assist you with your question about remittance transfers. The Electronic Fund Transfer Act requires model forms for pre-payment disclosures for remittance transfers exchanged into local currency, which can be found in 12 CFR Appendix A to Part 1005, specifically in sections A-30, A-38, A-39, and A-40 [Source: s4_reg_regulation_e_0403]. These model forms include disclosures for receipts and combined disclosures, as outlined in 12 CFR 1005.31(b)(1), 12 CFR 1005.31(b)(2), and 12 CFR 1005.31(b)(3) [Source: s4_reg_efta_0318]. The use of these model forms is optional, and entities may make certain changes to the language or format without losing protection from civil and criminal liability under sections 915 and 916 of the EFTA [Source: s4_reg_efta_0314]. The model forms for receipts and combined disclosures for remittance transfers exchanged into local currency are also outlined in 12 CFR 1005.31(b)(2) and 12 CFR 1005.32(b)(3) [Source: s4_reg_efta_0314]. Additionally, the Electronic Fund Transfer Act is referenced in 15 U.S.C [Source: s4_reg_regulation_e_0403]. 1693 et seq. and 15 U.S.C. 7001 et seq. [Source: s4_reg_efta_0318]. If you have any more questions or need further clarification on remittance transfers or the Electronic Fund Transfer Act, please don't hesitate to ask, and I'll do my best to provide you with the information you need [Source: s4_reg_regulation_e_0403].",
+    "raw_answer": "I'm here to help you navigate the complexities of financial regulations, and I'm happy to assist you with your question about remittance transfers. The Electronic Fund Transfer Act requires model forms for pre-payment disclosures for remittance transfers exchanged into local currency, which can be found in 12 CFR Appendix A to Part 1005, specifically in sections A-30, A-38, A-39, and A-40 [Source: s4_reg_regulation_e_0403]. These model forms include disclosures for receipts and combined disclosures, as outlined in 12 CFR 1005.31(b)(1), 12 CFR 1005.31(b)(2), and 12 CFR 1005.31(b)(3) [Source: s4_reg_efta_0318]. The use of these model forms is optional, and entities may make certain changes to the language or format without losing protection from civil and criminal liability under sections 915 and 916 of the EFTA [Source: s4_reg_efta_0314]. The model forms for receipts and combined disclosures for remittance transfers exchanged into local currency are also outlined in 12 CFR 1005.31(b)(2) and 12 CFR 1005.32(b)(3) [Source: s4_reg_efta_0314]. Additionally, the Electronic Fund Transfer Act is referenced in 15 U.S.C [Source: s4_reg_regulation_e_0403]. 1693 et seq. and 15 U.S.C. 7001 et seq. [Source: s4_reg_efta_0318]. If you have any more questions or need further clarification on remittance transfers or the Electronic Fund Transfer Act, please don't hesitate to ask, and I'll do my best to provide you with the information you need [Source: s4_reg_regulation_e_0403].",
+    "intent_predicted": "Regulatory",
+    "intent_conf": 0.7509029507637024,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.4861,
+      "faithfulness_confidence": 0.9609,
+      "final_confidence": 0.771,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_reg_regulation_e_0403",
+      "s4_reg_efta_0318",
+      "s4_reg_efta_0314"
+    ],
+    "scores": {
+      "faithfulness": 4,
+      "completeness": 4,
+      "tone": 4,
+      "citation": "yes",
+      "reasoning": "The chatbot response is mostly accurate and complete, with a professional tone and proper citations, but contains some minor inaccuracies and redundant information."
+    }
+  },
+  {
+    "idx": 5,
+    "category": "Regulatory",
+    "question": "Can a creditor have different maximum interest rates for different features of a loan, and are there any restrictions on the interest rate that can be charged after a default? What are the rules around this?",
+    "expected_answer": "According to Regulation Z, a creditor may set one maximum interest rate for the initially imposed index-based variable-rate feature and another for the conversion option, or establish one maximum interest rate applicable to all features. The interest rate charged after default is subject to a maximum interest rate set forth in the credit obligation, although state law may allow for a higher rate than the contract rate in effect at the time of default. This means that while state law may permit a higher interest rate after default, it is still capped by the maximum rate specified in the credit agreement.",
+    "chatbot_response": "I'm here to help you navigate the complex world of financial regulations, and I'll do my best to provide you with clear and accurate information. A creditor may set one maximum interest rate for the initially imposed index-based variable-rate feature and another for the conversion option, according to the rules of Truth in Lending (Regulation Z) [Source: s4_reg_regulation_z_3387]. Creditors are not prohibited from setting multiple interest rate ceilings, and they may establish a maximum interest rate for each feature, such as on loans with multiple variable-rate features [Source: s4_reg_regulation_z_3386]. The interest rate after default is subject to a maximum interest rate set forth in a credit obligation that is otherwise subject to this section, and this rule applies only in situations in which a post-default agreement is still considered part of the original obligation [Source: s4_reg_regulation_z_3387]. Generally, a creditor may not increase the maximum interest rate originally set on a credit obligation subject to this section unless the consumer and the creditor enter into a new obligation [Source: s4_reg_regulation_z_3387]. A creditor may disclose the range of the lowest and highest periodic and overall rate limitations that may be applicable to the creditor's ARM transactions, rather than disclosing each periodic or overall rate limitation that is currently available [Source: s4_reg_regulation_z_2907]. If you have any more questions or need further clarification on these rules, please don't hesitate to ask, and I'll do my best to provide you with the information you need [Source: s4_reg_regulation_z_3387].",
+    "raw_answer": "I'm here to help you navigate the complex world of financial regulations, and I'll do my best to provide you with clear and accurate information. A creditor may set one maximum interest rate for the initially imposed index-based variable-rate feature and another for the conversion option, according to the rules of Truth in Lending (Regulation Z) [Source: s4_reg_regulation_z_3387]. Creditors are not prohibited from setting multiple interest rate ceilings, and they may establish a maximum interest rate for each feature, such as on loans with multiple variable-rate features [Source: s4_reg_regulation_z_3386]. The interest rate after default is subject to a maximum interest rate set forth in a credit obligation that is otherwise subject to this section, and this rule applies only in situations in which a post-default agreement is still considered part of the original obligation [Source: s4_reg_regulation_z_3387]. Generally, a creditor may not increase the maximum interest rate originally set on a credit obligation subject to this section unless the consumer and the creditor enter into a new obligation [Source: s4_reg_regulation_z_3387]. A creditor may disclose the range of the lowest and highest periodic and overall rate limitations that may be applicable to the creditor's ARM transactions, rather than disclosing each periodic or overall rate limitation that is currently available [Source: s4_reg_regulation_z_2907]. If you have any more questions or need further clarification on these rules, please don't hesitate to ask, and I'll do my best to provide you with the information you need [Source: s4_reg_regulation_z_3387].",
+    "intent_predicted": "Regulatory",
+    "intent_conf": 0.7936604022979736,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.3665,
+      "faithfulness_confidence": 0.9808,
+      "final_confidence": 0.7351,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_reg_regulation_z_3387",
+      "s4_reg_regulation_z_3386",
+      "s4_reg_regulation_z_2907"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately addresses the question about creditor interest rates and default, providing detailed information and citing relevant sources from Regulation Z."
+    }
+  },
+  {
+    "idx": 6,
+    "category": "Consumer_Protection",
+    "question": "What are my options for repaying federal student loans, and how do the repayment terms differ? Are there plans that consider my income and family size?",
+    "expected_answer": "The government offers different repayment terms for federal student loans, including options with longer repayment periods and lower monthly payments. Some repayment plans are based on discretionary income, which is defined as the difference between your adjusted income and a certain amount. Income-driven repayment plans take into account your income and family size when determining your monthly payment. These plans may have lower monthly payments, but often result in paying more over the life of the loan.",
+    "chatbot_response": "I understand that managing federal student loans can be overwhelming, and it's great that you're exploring your options for repayment. The government offers different repayment terms for federal student loans, including options based on discretionary income, which is defined as the difference between your adjusted gross income and 150 percent of the federal poverty guidelines [Source: s4_con_cfpb_consumer_toolki_0328]. Some repayment plans have longer repayment periods, resulting in lower monthly payments, while others base your payment on your income and family size [Source: s4_con_cfpb_consumer_toolki_0328]. Federal student loans usually offer more flexible repayment options than private student loans, with fixed interest rates set by the government [Source: s4_con_cfpb_consumer_toolki_0273]. Income-driven repayment plans consider your payment based on your income and family size, and there are no fees to change your repayment plan [Source: s4_con_cfpb_consumer_toolki_0328]. If you're struggling to make payments, you may be eligible for alternative repayment plans that could lower your monthly payments, but missing payments can hurt your ability to qualify for these plans [Source: s4_con_cfpb_consumer_toolki_0273]. Additionally, if your loan is in default, you can work with your debt collector to create a loan rehabilitation plan with affordable payments based on your family size and household income [Source: s4_con_cfpb_consumer_toolki_0327]. If you have any more questions or need further assistance in exploring your repayment options, please don't hesitate to ask, and I'll be happy to help you navigate the process.",
+    "raw_answer": "I understand that managing federal student loans can be overwhelming, and it's great that you're exploring your options for repayment. The government offers different repayment terms for federal student loans, including options based on discretionary income, which is defined as the difference between your adjusted gross income and 150 percent of the federal poverty guidelines [Source: s4_con_cfpb_consumer_toolki_0328]. Some repayment plans have longer repayment periods, resulting in lower monthly payments, while others base your payment on your income and family size [Source: s4_con_cfpb_consumer_toolki_0328]. Federal student loans usually offer more flexible repayment options than private student loans, with fixed interest rates set by the government [Source: s4_con_cfpb_consumer_toolki_0273]. Income-driven repayment plans consider your payment based on your income and family size, and there are no fees to change your repayment plan [Source: s4_con_cfpb_consumer_toolki_0328]. If you're struggling to make payments, you may be eligible for alternative repayment plans that could lower your monthly payments, but missing payments can hurt your ability to qualify for these plans [Source: s4_con_cfpb_consumer_toolki_0273]. Additionally, if your loan is in default, you can work with your debt collector to create a loan rehabilitation plan with affordable payments based on your family size and household income [Source: s4_con_cfpb_consumer_toolki_0327]. If you have any more questions or need further assistance in exploring your repayment options, please don't hesitate to ask, and I'll be happy to help you navigate the process.",
+    "intent_predicted": "Consumer_Protection",
+    "intent_conf": 0.6952988505363464,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.5927,
+      "faithfulness_confidence": 0.9939,
+      "final_confidence": 0.8334,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_con_cfpb_consumer_toolki_0328",
+      "s4_con_cfpb_consumer_toolki_0273",
+      "s4_con_cfpb_consumer_toolki_0327"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately and thoroughly addresses the user's question about federal student loan repayment options, including income-driven plans, while maintaining a empathetic and professional tone and providing relevant citations."
+    }
+  },
+  {
+    "idx": 7,
+    "category": "Consumer_Protection",
+    "question": "How do I calculate my total income and expenses for week 1, and what do I do with the results? I want to make sure I'm tracking my finances correctly.",
+    "expected_answer": "To calculate your total income and expenses for week 1, start by writing down the amounts you receive from various categories and add them up to get your total income. Then, write down the amounts you spend during week 1 and subtract these expenses from your total income. This will give you the result of your income minus expenses for week 1. You should enter this result as instructed, but the excerpt does not specify what to do with it next.",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Consumer_Protection",
+    "intent_conf": 0.483168363571167,
+    "is_oos_predicted": true,
+    "is_oos_true": false,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": 1,
+      "completeness": 1,
+      "tone": 5,
+      "citation": "no",
+      "reasoning": "The chatbot response fails to provide accurate and relevant information to the user's question, instead redirecting them to a human advisor and showcasing expertise in unrelated areas."
+    }
+  },
+  {
+    "idx": 8,
+    "category": "Consumer_Protection",
+    "question": "I have a trust account with multiple beneficiaries, how much insurance coverage can I expect as of April 1, 2024? Is there a limit per owner?",
+    "expected_answer": "As of April 1, 2024, the maximum insurance coverage for a trust owner with five or more beneficiaries is $1,250,000 per owner. This means that each owner of the trust account is eligible for up to $1,250,000 in insurance coverage, regardless of the number of beneficiaries. This change applies to trust accounts held by one or more owners under various types of trusts, including informal revocable trusts and irrevocable trusts.",
+    "chatbot_response": "I understand that managing a trust account with multiple beneficiaries can be complex, and it's great that you're taking the time to understand the insurance coverage details. As of April 1,",
+    "raw_answer": "I understand that managing a trust account with multiple beneficiaries can be complex, and it's great that you're taking the time to understand the insurance coverage details. As of April 1,",
+    "intent_predicted": "Consumer_Protection",
+    "intent_conf": 0.7322612404823303,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.6508,
+      "faithfulness_confidence": 0.9938,
+      "final_confidence": 0.8566,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_con_fdic_deposit_insuran_0025",
+      "s4_con_fdic_deposit_insuran_0024",
+      "s4_con_fdic_deposit_insuran_0032"
+    ],
+    "scores": {
+      "faithfulness": 1,
+      "completeness": 1,
+      "tone": 4,
+      "citation": "no",
+      "reasoning": "The chatbot response does not provide any accurate information about the insurance coverage and lacks key points from the expected answer, but has a warm and empathetic tone."
+    }
+  },
+  {
+    "idx": 9,
+    "category": "Consumer_Protection",
+    "question": "I've decided to start saving money, but I'm not sure where to keep it. What are some things I should consider when choosing a place to store my savings?",
+    "expected_answer": "When deciding where to keep your savings, you should consider how secure it is, whether there are costs associated with keeping it there, and other factors. You have many options, each with specific risks and benefits. It's essential to think about these factors to ensure you choose a safe and suitable place for your savings. This will help you make an informed decision about where to store your money.",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.37895724177360535,
+    "is_oos_predicted": true,
+    "is_oos_true": false,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": 1,
+      "completeness": 1,
+      "tone": 5,
+      "citation": "no",
+      "reasoning": "The chatbot response does not address the user's question about choosing a place to store savings, instead stating it's outside their expertise and recommending a human advisor."
+    }
+  },
+  {
+    "idx": 10,
+    "category": "Consumer_Protection",
+    "question": "I'm thinking of using my prepaid card to withdraw cash, but I want to know about the fees. Are there any differences in fees for in-network versus out-of-network ATMs?",
+    "expected_answer": "The fees for withdrawing money from an ATM can vary depending on whether the ATM is in-network or out-of-network. You may pay zero or smaller ATM fees by using your prepaid card at in-network ATMs, depending on the terms of your cardholder agreement. It's also worth noting that your payroll card may allow you a certain number of free ATM withdrawals each month. You should check your cardholder agreement to determine the specific fees associated with your card.",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.4976722300052643,
+    "is_oos_predicted": true,
+    "is_oos_true": false,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": 1,
+      "completeness": 1,
+      "tone": 5,
+      "citation": "no",
+      "reasoning": "The chatbot response fails to provide accurate and relevant information about the fees for in-network versus out-of-network ATMs, instead deflecting the question and recommending a human advisor."
+    }
+  },
+  {
+    "idx": 11,
+    "category": "Consumer_Protection",
+    "question": "How often can I get a free credit report from each of the major credit reporting companies, and what are some strategies for requesting them?",
+    "expected_answer": "You can get a free credit report from each company, Experian, Equifax, and TransUnion, once every 12 months. To stay on top of your credit reports, you can request them on three separate dates or on a single date, choosing a date that's easy to remember, such as a birthday or holiday. Requesting reports on three different dates throughout the year can help you monitor any changes. This allows you to keep track of your credit reports and identify any potential issues.",
+    "chatbot_response": "I'm here to help you navigate the process of requesting your credit reports, and I want to make sure you have all the information you need to make informed decisions about your financial health. You can get a free credit report from each of the major credit reporting companies, including Experian, Equifax, and Transunion, once every 12 months [Source: s4_con_cfpb_consumer_toolki_0405]. It's a good idea to request your credit reports from all three companies, as each report can have different information in it [Source: s4_con_cfpb_consumer_toolki_0402]. One strategy for requesting your credit reports is to stagger them, requesting one report from a different company every four months, which can help you monitor your credit for free [Source: s4_con_cfpb_consumer_toolki_0404]. Another strategy is to request all three reports at once, on a single date that's easy to remember, such as a birthday or holiday [Source: s4_con_cfpb_consumer_toolki_0405]. You can request your credit reports online, by phone, or by mail, and it's a good idea to create a reminder on your calendar or phone to help you follow through [Source: s4_con_cfpb_consumer_toolki_0402]. When you receive your credit reports, it's essential to review them carefully to ensure the information listed about you is accurate [Source: s4_con_cfpb_consumer_toolki_0404]. I hope this information helps, and if you have any more questions or need further assistance, please don't hesitate to ask, and I'll be happy to help you with your credit report requests.",
+    "raw_answer": "I'm here to help you navigate the process of requesting your credit reports, and I want to make sure you have all the information you need to make informed decisions about your financial health. You can get a free credit report from each of the major credit reporting companies, including Experian, Equifax, and Transunion, once every 12 months [Source: s4_con_cfpb_consumer_toolki_0405]. It's a good idea to request your credit reports from all three companies, as each report can have different information in it [Source: s4_con_cfpb_consumer_toolki_0402]. One strategy for requesting your credit reports is to stagger them, requesting one report from a different company every four months, which can help you monitor your credit for free [Source: s4_con_cfpb_consumer_toolki_0404]. Another strategy is to request all three reports at once, on a single date that's easy to remember, such as a birthday or holiday [Source: s4_con_cfpb_consumer_toolki_0405]. You can request your credit reports online, by phone, or by mail, and it's a good idea to create a reminder on your calendar or phone to help you follow through [Source: s4_con_cfpb_consumer_toolki_0402]. When you receive your credit reports, it's essential to review them carefully to ensure the information listed about you is accurate [Source: s4_con_cfpb_consumer_toolki_0404]. I hope this information helps, and if you have any more questions or need further assistance, please don't hesitate to ask, and I'll be happy to help you with your credit report requests.",
+    "intent_predicted": "Regulatory",
+    "intent_conf": 0.6465067267417908,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.5301,
+      "faithfulness_confidence": 0.9933,
+      "final_confidence": 0.808,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_con_cfpb_consumer_toolki_0405",
+      "s4_con_cfpb_consumer_toolki_0402",
+      "s4_con_cfpb_consumer_toolki_0404"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately provides the frequency of free credit reports, strategies for requesting them, and includes citations to support the information, while also maintaining a professional and empathetic tone."
+    }
+  },
+  {
+    "idx": 12,
+    "category": "Payment_Industry",
+    "question": "What is the role of China Switch in payment processing and what happens when a customer determines an error has been made?",
+    "expected_answer": "The China Switch (CSW) processes authorization, clearing, and settlement in a single message for mainland China domestic transactions. When a customer determines an error has been made, they can correct the error through an adjustment, which may lead to a chargeback option for the issuer if processed by an acquirer. The acquirer can perform adjustments using specific reason codes, as outlined in the rules and procedures for adjustments switched in China Switch.",
+    "chatbot_response": "I want to be transparent \u2014 my confidence in this answer is moderate, as the available documents provide only partial coverage of your question. I'd encourage you to verify the details with a specialist or review the source documents directly.\n\nI'm here to help you understand the role of China Switch in payment processing and what happens when a customer determines an error has been made, and I'll provide you with the most accurate information possible. The China Switch (CSW) processes authorization, clearing, and settlement in a single message, and it is only responsible for switching mainland China domestic transactions [Source: s4_pay_mastercard_chargebac_4055]. When a customer determines an error has been made, the customer can correct the error through an adjustment [Source: s4_pay_mastercard_chargebac_4055]. If the adjustment is processed by an acquirer, the issuer may have the option of a chargeback [Source: s4_pay_mastercard_chargebac_4055]. The acquirer can perform mainland China domestic adjustments and corrections using a specific message reason code, such as reason code 10 for correction of a terminal malfunction [Source: s4_pay_mastercard_chargebac_4055]. A refund processed by the merchant includes a refund transaction identified with a value of 20 (credit [purchase return] in DE 3 (processing code), subfield 1 (cardholder transaction type) of the clearing record [Source: s4_pay_mastercard_chargebac_2372]. For mainland China customers, a domestic fee collection must be processed as documented in the China Switch User Guide Customer Portal [Source: s4_pay_mastercard_chargebac_2372]. I hope this information helps clarify the role of China Switch and the process for correcting errors, and if you have any further questions or need more assistance, please don't hesitate to ask [Source: s4_pay_mastercard_chargebac_4055].",
+    "raw_answer": "I'm here to help you understand the role of China Switch in payment processing and what happens when a customer determines an error has been made, and I'll provide you with the most accurate information possible. The China Switch (CSW) processes authorization, clearing, and settlement in a single message, and it is only responsible for switching mainland China domestic transactions [Source: s4_pay_mastercard_chargebac_4055]. When a customer determines an error has been made, the customer can correct the error through an adjustment [Source: s4_pay_mastercard_chargebac_4055]. If the adjustment is processed by an acquirer, the issuer may have the option of a chargeback [Source: s4_pay_mastercard_chargebac_4055]. The acquirer can perform mainland China domestic adjustments and corrections using a specific message reason code, such as reason code 10 for correction of a terminal malfunction [Source: s4_pay_mastercard_chargebac_4055]. A refund processed by the merchant includes a refund transaction identified with a value of 20 (credit [purchase return] in DE 3 (processing code), subfield 1 (cardholder transaction type) of the clearing record [Source: s4_pay_mastercard_chargebac_2372]. For mainland China customers, a domestic fee collection must be processed as documented in the China Switch User Guide Customer Portal [Source: s4_pay_mastercard_chargebac_2372]. I hope this information helps clarify the role of China Switch and the process for correcting errors, and if you have any further questions or need more assistance, please don't hesitate to ask [Source: s4_pay_mastercard_chargebac_4055].",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.7882204651832581,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.35,
+      "faithfulness_confidence": 0.8031,
+      "final_confidence": 0.6219,
+      "label": "MEDIUM"
+    },
+    "top_chunk_ids": [
+      "s4_pay_mastercard_chargebac_4055",
+      "s4_pay_mastercard_chargebac_2372",
+      "s4_pay_mastercard_chargebac_3187"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately covers all key points from the expected answer, provides a professional tone, and includes source citations to support its claims."
+    }
+  },
+  {
+    "idx": 13,
+    "category": "Payment_Industry",
+    "question": "What is PCI DSS and who does it apply to? I'm a merchant who accepts payment cards and I want to understand my security obligations.",
+    "expected_answer": "PCI DSS applies to you if you accept payment cards, as it is a set of security standards designed to protect cardholder data. The PCI Security Standards Council has established these standards to address critical security controls, including the installation of PIN Transaction Security (PTS) requirements for merchant payment systems. The PTS standards focus on the characteristics and management of devices used to reduce merchant risk and mitigate the protection of cardholder PINs and other payment processing related activities.",
+    "chatbot_response": "\u26a0\ufe0f I must be honest with you \u2014 I have low confidence in this answer. The documents in my knowledge base do not appear to cover this topic sufficiently. Please treat the following as a starting point only and verify with a qualified human advisor before taking any action.\n\nI'm here to help you navigate the world of PCI DSS and ensure you're meeting your security obligations as a merchant. The PCI DSS is a set of security standards designed to protect cardholder data when it is electronically stored, processed, or transmitted, and it applies to any entity that accepts payment cards bearing the logos of any PCI SSC participating payment brand as payment for goods and/or services [Source: s4_pay_pci_dss_full_standar_0986]. As a merchant, you are defined as any entity that accepts payment cards as payment for goods and/or services, and you can also be considered a service provider if you store, process, or transmit cardholder data on behalf of other merchants or service providers [Source: s4_pay_pci_dss_full_standar_0986]. The PCI DSS is a continuous process that involves assessing your payment card transaction environment, identifying vulnerabilities, and implementing secure business processes to protect cardholder data [Source: s4_pay_pci_dss_quick_refere_0017]. To achieve PCI DSS compliance, you must follow three ongoing steps: assess, repair, and report, which involve identifying vulnerabilities, fixing them, and documenting your compliance [Source: s4_pay_pci_dss_quick_refere_0017]. There are different Self-Assessment Questionnaires (SAQs) available to meet different merchant environments, and you can contact your acquiring bank or payment card brand for assistance in determining which SAQ applies to you [Source: s4_pay_pci_dss_quick_refere_0089]. Don't worry if this seems overwhelming - I'm here to help you understand your security obligations and guide you through the process of achieving PCI DSS compliance.",
+    "raw_answer": "I'm here to help you navigate the world of PCI DSS and ensure you're meeting your security obligations as a merchant. The PCI DSS is a set of security standards designed to protect cardholder data when it is electronically stored, processed, or transmitted, and it applies to any entity that accepts payment cards bearing the logos of any PCI SSC participating payment brand as payment for goods and/or services [Source: s4_pay_pci_dss_full_standar_0986]. As a merchant, you are defined as any entity that accepts payment cards as payment for goods and/or services, and you can also be considered a service provider if you store, process, or transmit cardholder data on behalf of other merchants or service providers [Source: s4_pay_pci_dss_full_standar_0986]. The PCI DSS is a continuous process that involves assessing your payment card transaction environment, identifying vulnerabilities, and implementing secure business processes to protect cardholder data [Source: s4_pay_pci_dss_quick_refere_0017]. To achieve PCI DSS compliance, you must follow three ongoing steps: assess, repair, and report, which involve identifying vulnerabilities, fixing them, and documenting your compliance [Source: s4_pay_pci_dss_quick_refere_0017]. There are different Self-Assessment Questionnaires (SAQs) available to meet different merchant environments, and you can contact your acquiring bank or payment card brand for assistance in determining which SAQ applies to you [Source: s4_pay_pci_dss_quick_refere_0089]. Don't worry if this seems overwhelming - I'm here to help you understand your security obligations and guide you through the process of achieving PCI DSS compliance.",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.8158077597618103,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.5327,
+      "faithfulness_confidence": 0.0241,
+      "final_confidence": 0.2275,
+      "label": "LOW"
+    },
+    "top_chunk_ids": [
+      "s4_pay_pci_dss_full_standar_0986",
+      "s4_pay_pci_dss_quick_refere_0017",
+      "s4_pay_pci_dss_quick_refere_0089"
+    ],
+    "scores": {
+      "faithfulness": 4,
+      "completeness": 4,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response is mostly accurate, covers key points, and has a professional tone, but lacks full confidence and some specific details from the expected answer."
+    }
+  },
+  {
+    "idx": 14,
+    "category": "Payment_Industry",
+    "question": "What happens if a chargeback or second presentment message is inaccurate, and how does it affect the transaction process? Can you explain the concept of 'inaccurate' in this context?",
+    "expected_answer": "If a chargeback or second presentment message is inaccurate, it can cause a valid chargeback cycle to be rejected or unprocessed, resulting in a financial loss for the filing customer. Inaccurate data refers to information that does not accurately reflect the conditions present at the point of interaction during the transaction or data that does not match the authorization message. This inaccuracy can lead to issues with the transaction process, particularly when the filing customer is the issuer. The issuer must then file a pre-compliance case in a timely manner to address the issue.",
+    "chatbot_response": "\u26a0\ufe0f I must be honest with you \u2014 I have low confidence in this answer. The documents in my knowledge base do not appear to cover this topic sufficiently. Please treat the following as a starting point only and verify with a qualified human advisor before taking any action.\n\nI'm here to help you understand the complexities of chargeback and second presentment messages, and I'll do my best to provide you with clear and accurate information. If a chargeback or second presentment message is inaccurate, it can cause a valid chargeback cycle to be rejected or unprocessed, resulting in a financial loss for the filing customer [Source: s4_pay_mastercard_chargebac_3692]. In this context, \"inaccurate\" means that the data did not accurately reflect the conditions present at the point of interaction at the time a transaction occurred, or the data did not match the data provided in the authorization message [Source: s4_pay_mastercard_chargebac_3692]. When a chargeback is invalid, it may be due to various reasons, including not meeting the requirements, being processed past the specified time frame, or being processed more than once for the same transaction [Source: s4_pay_mastercard_chargebac_1106]. The acquirer may second present when a refund was previously issued, or when the chargeback was invalid, including cases where the combination of primary account number and acquirer reference data does not match the information contained in the first presentment record [Source: s4_pay_mastercard_chargebac_2822]. Additionally, a second presentment may be necessary when the merchant issued a refund to the cardholder's account, and the acquirer must process a timely second presentment to identify that a refund was previously processed [Source: s4_pay_mastercard_chargebac_1106]. The concept of \"inaccurate\" is crucial in this context, as it can affect the validity of the chargeback or second presentment, and may lead to a compliance case being invalid [Source: s4_pay_mastercard_chargebac_2822]. If you have any further questions or need more clarification on this topic, please don't hesitate to ask, and I'll be happy to help you navigate the complexities of chargeback and second presentment messages.",
+    "raw_answer": "I'm here to help you understand the complexities of chargeback and second presentment messages, and I'll do my best to provide you with clear and accurate information. If a chargeback or second presentment message is inaccurate, it can cause a valid chargeback cycle to be rejected or unprocessed, resulting in a financial loss for the filing customer [Source: s4_pay_mastercard_chargebac_3692]. In this context, \"inaccurate\" means that the data did not accurately reflect the conditions present at the point of interaction at the time a transaction occurred, or the data did not match the data provided in the authorization message [Source: s4_pay_mastercard_chargebac_3692]. When a chargeback is invalid, it may be due to various reasons, including not meeting the requirements, being processed past the specified time frame, or being processed more than once for the same transaction [Source: s4_pay_mastercard_chargebac_1106]. The acquirer may second present when a refund was previously issued, or when the chargeback was invalid, including cases where the combination of primary account number and acquirer reference data does not match the information contained in the first presentment record [Source: s4_pay_mastercard_chargebac_2822]. Additionally, a second presentment may be necessary when the merchant issued a refund to the cardholder's account, and the acquirer must process a timely second presentment to identify that a refund was previously processed [Source: s4_pay_mastercard_chargebac_1106]. The concept of \"inaccurate\" is crucial in this context, as it can affect the validity of the chargeback or second presentment, and may lead to a compliance case being invalid [Source: s4_pay_mastercard_chargebac_2822]. If you have any further questions or need more clarification on this topic, please don't hesitate to ask, and I'll be happy to help you navigate the complexities of chargeback and second presentment messages.",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.8757179379463196,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.4469,
+      "faithfulness_confidence": 0.0746,
+      "final_confidence": 0.2236,
+      "label": "LOW"
+    },
+    "top_chunk_ids": [
+      "s4_pay_mastercard_chargebac_3692",
+      "s4_pay_mastercard_chargebac_1106",
+      "s4_pay_mastercard_chargebac_2822"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately addresses the question, covering all key points, and provides a professional tone with proper citations."
+    }
+  },
+  {
+    "idx": 15,
+    "category": "Payment_Industry",
+    "question": "What happens if the issuer files a pre-arbitration case before the required time frame has expired, and can they still accept supporting documentation after that point? ",
+    "expected_answer": "Mastercard will consider the pre-arbitration case invalid if the issuer files it before the applicable second presentment supporting documentation time frame has expired. The issuer must accept supporting documentation as long as they have not processed a pre-arbitration case filing, regardless of the timing. However, there are specific time frames to consider, including a protected three-business day time frame for receiving second presentment supporting documentation.",
+    "chatbot_response": "I want to be transparent \u2014 my confidence in this answer is moderate, as the available documents provide only partial coverage of your question. I'd encourage you to verify the details with a specialist or review the source documents directly.\n\nI'm here to help you navigate the complexities of Mastercard's chargeback process, and I'll do my best to provide you with clear and accurate information. Mastercard will consider the pre-arbitration case invalid if the issuer files a pre-arbitration case before the applicable second presentment supporting documentation time frame has expired [Source: s4_pay_mastercard_chargebac_2432]. The issuer must accept supporting documentation as long as the issuer has not processed a pre-arbitration case filing [Source: s4_pay_mastercard_chargebac_2432]. If the second presentment supporting documentation is received after the applicable time frame and on the same day as the pre-arbitration case filing, Mastercard will not consider the second presentment supporting documentation [Source: s4_pay_mastercard_chargebac_2432]. The issuer is required to wait for a specific time frame before filing a pre-arbitration case, which varies depending on the type of transaction, such as 10-calendar days for ATM and Maestro transactions [Source: s4_pay_mastercard_chargebac_1242]. If the issuer files a pre-arbitration case before the required time frame has expired, the case will be considered invalid, and the issuer must still accept supporting documentation as long as they have not processed the pre-arbitration case filing [Source: s4_pay_mastercard_chargebac_1245]. Please let me know if you have any further questions or need additional clarification on Mastercard's chargeback process, and I'll be happy to help.",
+    "raw_answer": "I'm here to help you navigate the complexities of Mastercard's chargeback process, and I'll do my best to provide you with clear and accurate information. Mastercard will consider the pre-arbitration case invalid if the issuer files a pre-arbitration case before the applicable second presentment supporting documentation time frame has expired [Source: s4_pay_mastercard_chargebac_2432]. The issuer must accept supporting documentation as long as the issuer has not processed a pre-arbitration case filing [Source: s4_pay_mastercard_chargebac_2432]. If the second presentment supporting documentation is received after the applicable time frame and on the same day as the pre-arbitration case filing, Mastercard will not consider the second presentment supporting documentation [Source: s4_pay_mastercard_chargebac_2432]. The issuer is required to wait for a specific time frame before filing a pre-arbitration case, which varies depending on the type of transaction, such as 10-calendar days for ATM and Maestro transactions [Source: s4_pay_mastercard_chargebac_1242]. If the issuer files a pre-arbitration case before the required time frame has expired, the case will be considered invalid, and the issuer must still accept supporting documentation as long as they have not processed the pre-arbitration case filing [Source: s4_pay_mastercard_chargebac_1245]. Please let me know if you have any further questions or need additional clarification on Mastercard's chargeback process, and I'll be happy to help.",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.849401593208313,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.3849,
+      "faithfulness_confidence": 0.8594,
+      "final_confidence": 0.6696,
+      "label": "MEDIUM"
+    },
+    "top_chunk_ids": [
+      "s4_pay_mastercard_chargebac_2432",
+      "s4_pay_mastercard_chargebac_1242",
+      "s4_pay_mastercard_chargebac_1245"
+    ],
+    "scores": {
+      "faithfulness": 4,
+      "completeness": 4,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response is mostly accurate and complete, with a professional tone and proper citations, but lacks full confidence and some specific details from the expected answer."
+    }
+  },
+  {
+    "idx": 16,
+    "category": "Payment_Industry",
+    "question": "What happens if a transaction between a European acquirer and a non-European issuer has already been presented, and a second presentment is attempted? Can the acquirer still rectify the situation?",
+    "expected_answer": "Mastercard uses message reason code 4804 to automatically charge back any transaction between a European acquirer and a non-European issuer if a previous presentment had already been matched to the pending file. Second presentments are not permitted. However, the acquirer may rectify the transaction details and submit a new first presentment. This allows the acquirer to correct any errors and resubmit the transaction for processing.",
+    "chatbot_response": "I want to be transparent \u2014 my confidence in this answer is moderate, as the available documents provide only partial coverage of your question. I'd encourage you to verify the details with a specialist or review the source documents directly.\n\nI understand that navigating the complexities of chargebacks and presentments can be overwhelming, and I'm here to help clarify the process for you. In European transactions, the acquirer may attempt a second presentment in certain situations, such as after an issuer chargeback [Source: s4_pay_mastercard_chargebac_0814]. The process for acquirer second presentment is also mentioned in relation to issuer chargeback [Source: s4_pay_mastercard_chargebac_0283]. However, the provided documents do not specifically address transactions between a European acquirer and a non-European issuer [Source: s4_pay_mastercard_chargebac_0814]. For issuer chargebacks, there are specific codes, such as 286, that may be relevant [Source: s4_pay_mastercard_chargebac_0107]. Acquirer second presentment is associated with a different code, 287, in certain contexts [Source: s4_pay_mastercard_chargebac_0107]. Unfortunately, the documents do not provide clear guidance on whether the acquirer can still rectify the situation in the case of a second presentment attempt for a transaction between a European acquirer and a non-European issuer [Source: s4_pay_mastercard_chargebac_0283]. Please let me know if there's anything else I can help you with or if you need further clarification on any of these points.",
+    "raw_answer": "I understand that navigating the complexities of chargebacks and presentments can be overwhelming, and I'm here to help clarify the process for you. In European transactions, the acquirer may attempt a second presentment in certain situations, such as after an issuer chargeback [Source: s4_pay_mastercard_chargebac_0814]. The process for acquirer second presentment is also mentioned in relation to issuer chargeback [Source: s4_pay_mastercard_chargebac_0283]. However, the provided documents do not specifically address transactions between a European acquirer and a non-European issuer [Source: s4_pay_mastercard_chargebac_0814]. For issuer chargebacks, there are specific codes, such as 286, that may be relevant [Source: s4_pay_mastercard_chargebac_0107]. Acquirer second presentment is associated with a different code, 287, in certain contexts [Source: s4_pay_mastercard_chargebac_0107]. Unfortunately, the documents do not provide clear guidance on whether the acquirer can still rectify the situation in the case of a second presentment attempt for a transaction between a European acquirer and a non-European issuer [Source: s4_pay_mastercard_chargebac_0283]. Please let me know if there's anything else I can help you with or if you need further clarification on any of these points.",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.8820862770080566,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.3765,
+      "faithfulness_confidence": 0.4174,
+      "final_confidence": 0.401,
+      "label": "MEDIUM"
+    },
+    "top_chunk_ids": [
+      "s4_pay_mastercard_chargebac_0814",
+      "s4_pay_mastercard_chargebac_0283",
+      "s4_pay_mastercard_chargebac_0107"
+    ],
+    "scores": {
+      "faithfulness": 2,
+      "completeness": 2,
+      "tone": 4,
+      "citation": "yes",
+      "reasoning": "The chatbot response lacks accuracy and completeness in addressing the specific scenario, but it maintains a professional tone and provides citations to sources, indicating an attempt to provide a reliable answer despite its limitations."
+    }
+  },
+  {
+    "idx": 17,
+    "category": "Payment_Industry",
+    "question": "What happens when an issuer rejects a pre-arbitration case and still believes the chargeback is valid? Can they escalate it to an arbitration case?",
+    "expected_answer": "Yes, an issuer may escalate the pre-arbitration to an arbitration case upon rejection of the pre-arbitration case if they continue to believe the chargeback is valid and the acquirer failed to remedy the pre-arbitration case. This is also applicable in cases of a change of reason code where both the original chargeback and the cardholder dispute chargeback are valid. The central site business date of the disputed transaction is counted as day zero for these cases.",
+    "chatbot_response": "I understand that navigating the complexities of chargeback and arbitration processes can be overwhelming, and I'm here to help clarify the steps involved. When an issuer rejects a pre-arbitration case and still believes the chargeback is valid, they may escalate the pre-arbitration to an arbitration case upon rejection of the pre-arbitration case [Source: s4_pay_mastercard_chargebac_1159]. The issuer should provide a rebuttal and any relevant documentation in support of that rebuttal when escalating the case [Source: s4_pay_mastercard_chargebac_1159]. For Costa Rica domestic transactions, the issuer must escalate within 10 business days of the rejected date specified within the Mastercom application [Source: s4_pay_mastercard_chargebac_1159]. For Tanzania domestic transactions, the issuer has 10 calendar days from the rejected date specified within the Mastercom application to escalate [Source: s4_pay_mastercard_chargebac_1159]. For all other transactions, the time frame for escalation is within 45 calendar days from the rejected date [Source: s4_pay_mastercard_chargebac_1159], although another document suggests this timeframe might be 15 calendar days for some cases [Source: s4_pay_mastercard_chargebac_1894]. If the issuer does not file an arbitration case within the specified time frame, they will have accepted the financial responsibility for the disputed transaction [Source: s4_pay_mastercard_chargebac_1442]. Please let me know if you need further clarification or assistance with understanding the arbitration process, and I'll do my best to provide more detailed information.",
+    "raw_answer": "I understand that navigating the complexities of chargeback and arbitration processes can be overwhelming, and I'm here to help clarify the steps involved. When an issuer rejects a pre-arbitration case and still believes the chargeback is valid, they may escalate the pre-arbitration to an arbitration case upon rejection of the pre-arbitration case [Source: s4_pay_mastercard_chargebac_1159]. The issuer should provide a rebuttal and any relevant documentation in support of that rebuttal when escalating the case [Source: s4_pay_mastercard_chargebac_1159]. For Costa Rica domestic transactions, the issuer must escalate within 10 business days of the rejected date specified within the Mastercom application [Source: s4_pay_mastercard_chargebac_1159]. For Tanzania domestic transactions, the issuer has 10 calendar days from the rejected date specified within the Mastercom application to escalate [Source: s4_pay_mastercard_chargebac_1159]. For all other transactions, the time frame for escalation is within 45 calendar days from the rejected date [Source: s4_pay_mastercard_chargebac_1159], although another document suggests this timeframe might be 15 calendar days for some cases [Source: s4_pay_mastercard_chargebac_1894]. If the issuer does not file an arbitration case within the specified time frame, they will have accepted the financial responsibility for the disputed transaction [Source: s4_pay_mastercard_chargebac_1442]. Please let me know if you need further clarification or assistance with understanding the arbitration process, and I'll do my best to provide more detailed information.",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.8779093027114868,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.6162,
+      "faithfulness_confidence": 0.9953,
+      "final_confidence": 0.8436,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_pay_mastercard_chargebac_1159",
+      "s4_pay_mastercard_chargebac_1894",
+      "s4_pay_mastercard_chargebac_1442"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately addresses the question, covers all key points from the expected answer, maintains a professional and empathetic tone, and includes relevant citations to support the information provided."
+    }
+  },
+  {
+    "idx": 18,
+    "category": "Synthetic_Policies",
+    "question": "What is the purpose of the Account Takeover Response Policy, and who is it intended for?",
+    "expected_answer": "The Account Takeover Response Policy is intended to establish a standardized procedure for detecting, containing, investigating, and resolving suspected account takeover incidents. The primary objectives of this policy are to minimize financial loss to customers and the bank, as well as ensure regulatory compliance. This policy is specifically intended for use by fraud investigators. Its scope applies to all retail and small business banking channels.",
+    "chatbot_response": "I'm here to help you understand the Account Takeover Response Policy and its intended users, and I'll provide you with the most accurate information possible. The purpose of the Account Takeover Response Policy is to establish a standardized, mandatory procedure for the timely detection, containment, investigation, and resolution of suspected account takeover incidents across all retail and small business banking channels [Source: s4_syn_account_takeover_ato_0000]. This policy aims to minimize financial loss to customers and the bank, ensure regulatory compliance, preserve evidence for potential legal action, and maintain customer trust through transparent communication [Source: s4_syn_account_takeover_ato_0000]. The primary objectives of this policy include ensuring regulatory compliance, including but not limited to Regulation E, the Bank Secrecy Act, and related guidance [Source: s4_syn_account_takeover_ato_0000]. The Account Takeover Response Policy applies to all employees within the Fraud Operations Division, Digital Banking Support, Contact Center, and any other department with a role in ATO response as defined in the Fraud Incident Response Playbook [Source: s4_syn_account_takeover_ato_0000]. The policy requires all actions to be executed in accordance with the chain of command and separation of duties protocols [Source: s4_syn_account_takeover_ato_0000]. The intended user of the Account Takeover Response Policy is the Fraud Investigator [Source: s4_syn_account_takeover_ato_0000]. If you have any further questions or need more clarification on the Account Takeover Response Policy, please don't hesitate to ask, and I'll do my best to provide you with the information you need [Source: s4_syn_account_takeover_ato_0000].",
+    "raw_answer": "I'm here to help you understand the Account Takeover Response Policy and its intended users, and I'll provide you with the most accurate information possible. The purpose of the Account Takeover Response Policy is to establish a standardized, mandatory procedure for the timely detection, containment, investigation, and resolution of suspected account takeover incidents across all retail and small business banking channels [Source: s4_syn_account_takeover_ato_0000]. This policy aims to minimize financial loss to customers and the bank, ensure regulatory compliance, preserve evidence for potential legal action, and maintain customer trust through transparent communication [Source: s4_syn_account_takeover_ato_0000]. The primary objectives of this policy include ensuring regulatory compliance, including but not limited to Regulation E, the Bank Secrecy Act, and related guidance [Source: s4_syn_account_takeover_ato_0000]. The Account Takeover Response Policy applies to all employees within the Fraud Operations Division, Digital Banking Support, Contact Center, and any other department with a role in ATO response as defined in the Fraud Incident Response Playbook [Source: s4_syn_account_takeover_ato_0000]. The policy requires all actions to be executed in accordance with the chain of command and separation of duties protocols [Source: s4_syn_account_takeover_ato_0000]. The intended user of the Account Takeover Response Policy is the Fraud Investigator [Source: s4_syn_account_takeover_ato_0000]. If you have any further questions or need more clarification on the Account Takeover Response Policy, please don't hesitate to ask, and I'll do my best to provide you with the information you need [Source: s4_syn_account_takeover_ato_0000].",
+    "intent_predicted": "Synthetic_Policies",
+    "intent_conf": 0.6072633862495422,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.3787,
+      "faithfulness_confidence": 0.991,
+      "final_confidence": 0.7461,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_syn_account_takeover_ato_0000",
+      "s4_syn_account_closure_poli_0000",
+      "s4_syn_chargeback_filing_ev_0000"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 4,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately and thoroughly covers the key points from the expected answer, including the purpose and scope of the Account Takeover Response Policy, while maintaining a professional tone and providing citations."
+    }
+  },
+  {
+    "idx": 19,
+    "category": "Synthetic_Policies",
+    "question": "What kind of evidence is required for a fraud dispute, and are there any specific documents I need to provide?",
+    "expected_answer": "For a fraud dispute, the required evidence includes a police report if filed, an affidavit of fraud, proof of non-receipt of the card, and account statements showing a pattern. Additionally, communication with the merchant may be necessary to resolve the dispute. It's essential to provide as much documentation as possible to support the claim of fraud.",
+    "chatbot_response": "I understand that dealing with a fraud dispute can be frustrating and overwhelming, and I'm here to help you navigate the process. For a fraud dispute, required evidence includes a police report if filed, an affidavit of fraud, proof of non-receipt of the card, and account statements showing a pattern [Source: s4_syn_chargeback_filing_ev_0001]. The evidence must be legible and complete, relevant to the dispute reason, obtained from reliable sources, dated within required timeframes, properly authenticated, and maintained in original format [Source: s4_syn_chargeback_filing_ev_0001]. In the case of a fraud dispute, evidence that the transaction was completed by a member of the cardholder's household or family may be required [Source: s4_pay_visa_chargeback_mana_0128]. For a recurring transaction, evidence of a legally binding contract between the merchant and the cardholder, the cardholder using the merchandise or services, and a previous transaction that was not disputed may be necessary [Source: s4_pay_visa_chargeback_mana_0128]. During the dispute resolution process, evidence collection may involve gathering customer statements and account activity, transaction details and merchant information, and previous communications with the merchant [Source: s4_syn_dispute_resolution_p_0002]. If you have any more questions or need further assistance with gathering the required evidence, please don't hesitate to ask, and I'll be happy to help you through this process.",
+    "raw_answer": "I understand that dealing with a fraud dispute can be frustrating and overwhelming, and I'm here to help you navigate the process. For a fraud dispute, required evidence includes a police report if filed, an affidavit of fraud, proof of non-receipt of the card, and account statements showing a pattern [Source: s4_syn_chargeback_filing_ev_0001]. The evidence must be legible and complete, relevant to the dispute reason, obtained from reliable sources, dated within required timeframes, properly authenticated, and maintained in original format [Source: s4_syn_chargeback_filing_ev_0001]. In the case of a fraud dispute, evidence that the transaction was completed by a member of the cardholder's household or family may be required [Source: s4_pay_visa_chargeback_mana_0128]. For a recurring transaction, evidence of a legally binding contract between the merchant and the cardholder, the cardholder using the merchandise or services, and a previous transaction that was not disputed may be necessary [Source: s4_pay_visa_chargeback_mana_0128]. During the dispute resolution process, evidence collection may involve gathering customer statements and account activity, transaction details and merchant information, and previous communications with the merchant [Source: s4_syn_dispute_resolution_p_0002]. If you have any more questions or need further assistance with gathering the required evidence, please don't hesitate to ask, and I'll be happy to help you through this process.",
+    "intent_predicted": "Consumer_Protection",
+    "intent_conf": 0.8756635189056396,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.5802,
+      "faithfulness_confidence": 0.8292,
+      "final_confidence": 0.7296,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_syn_chargeback_filing_ev_0001",
+      "s4_pay_visa_chargeback_mana_0128",
+      "s4_syn_dispute_resolution_p_0002"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately and thoroughly addresses the question, providing detailed evidence requirements for a fraud dispute while maintaining a professional and empathetic tone, and includes relevant citations."
+    }
+  },
+  {
+    "idx": 20,
+    "category": "Synthetic_Policies",
+    "question": "How do I understand a payment decline response and what information should I prioritize when reviewing it?",
+    "expected_answer": "A payment decline is communicated via an ISO-8583 response code or a gateway-specific descriptive code, which is then translated into a primary error code and often includes a supplemental 'issuer message' or 'bank response text'. Merchants should prioritize the primary error code as it provides the actionable classification, such as 'insufficient funds'. Additionally, reviewing the issuer message provides context from the cardholder's bank, offering more detailed information, like 'insufficient available balance'.",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Consumer_Protection",
+    "intent_conf": 0.4736892282962799,
+    "is_oos_predicted": true,
+    "is_oos_true": false,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": 1,
+      "completeness": 1,
+      "tone": 5,
+      "citation": "no",
+      "reasoning": "The chatbot response completely fails to address the question about understanding a payment decline response, instead deflecting to its own limitations and recommending a human advisor, while maintaining a warm and professional tone."
+    }
+  },
+  {
+    "idx": 21,
+    "category": "Synthetic_Policies",
+    "question": "How are cash advance limits determined for a credit card, and is there a maximum limit I should be aware of?",
+    "expected_answer": "Cash advance limits are determined based on an individual cardholder's creditworthiness, credit history, and current account activity. Generally, cash advance limits are capped at 25% of the cardholder's approved credit limit. This means that the amount you can withdraw as a cash advance is a percentage of your total available credit.",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.371744841337204,
+    "is_oos_predicted": true,
+    "is_oos_true": false,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": 1,
+      "completeness": 1,
+      "tone": 5,
+      "citation": "no",
+      "reasoning": "The chatbot response does not provide any accurate or relevant information regarding cash advance limits, instead redirecting the user to a human advisor and stating its own limitations."
+    }
+  },
+  {
+    "idx": 22,
+    "category": "Synthetic_Policies",
+    "question": "How does the settlement schedule work for new merchants and what factors can affect it? I'm trying to understand the payment terms for my business.",
+    "expected_answer": "For new merchants, the standard settlement terms are T + 2 for the first 90 days, while established merchants with good standing typically have T + 1 settlement terms. However, settlement schedules may be adjusted based on risk assessment, processing volume, and other factors. This means that the settlement terms can change over time as the merchant's risk profile and processing history are evaluated.",
+    "chatbot_response": "I completely understand that navigating payment terms for your business can be overwhelming, and I'm here to help you break it down. New merchants typically begin with T + 2 settlement terms for the first 90 days, which means they receive their payments two business days after the transaction [Source: s4_syn_merchant_onboarding__0003]. The settlement schedule may be adjusted based on risk assessment, processing volume, and chargeback history, allowing for more flexible payment terms as the merchant establishes a positive track record [Source: s4_syn_merchant_onboarding__0003]. Established merchants with good standing, on the other hand, usually have a standard settlement term of T + 1, or one business day [Source: s4_syn_merchant_onboarding__0003]. The risk assessment is a critical factor in determining the settlement schedule, as high-risk categories may require additional security measures and more frequent reviews [Source: s4_syn_merchant_onboarding__0003]. Merchants must also maintain sufficient settlement accounts and authorize automatic settlement of processed transactions to ensure smooth payment processing [Source: s4_syn_merchant_onboarding__0003]. Don't worry if you still have questions or need further clarification - I'm here to help you understand the payment terms and settlement schedules for your business.",
+    "raw_answer": "I completely understand that navigating payment terms for your business can be overwhelming, and I'm here to help you break it down. New merchants typically begin with T + 2 settlement terms for the first 90 days, which means they receive their payments two business days after the transaction [Source: s4_syn_merchant_onboarding__0003]. The settlement schedule may be adjusted based on risk assessment, processing volume, and chargeback history, allowing for more flexible payment terms as the merchant establishes a positive track record [Source: s4_syn_merchant_onboarding__0003]. Established merchants with good standing, on the other hand, usually have a standard settlement term of T + 1, or one business day [Source: s4_syn_merchant_onboarding__0003]. The risk assessment is a critical factor in determining the settlement schedule, as high-risk categories may require additional security measures and more frequent reviews [Source: s4_syn_merchant_onboarding__0003]. Merchants must also maintain sufficient settlement accounts and authorize automatic settlement of processed transactions to ensure smooth payment processing [Source: s4_syn_merchant_onboarding__0003]. Don't worry if you still have questions or need further clarification - I'm here to help you understand the payment terms and settlement schedules for your business.",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.70989590883255,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.3646,
+      "faithfulness_confidence": 0.956,
+      "final_confidence": 0.7195,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_syn_merchant_onboarding__0003",
+      "s4_pay_paypal_user_agreemen_0034",
+      "s4_pay_visa_chargeback_mana_0021"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 5,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately and thoroughly addresses the user's question about settlement schedules for new merchants, while also providing a professional and empathetic tone with proper citations."
+    }
+  },
+  {
+    "idx": 23,
+    "category": "Synthetic_Policies",
+    "question": "What are the minimum opening balance requirements for different types of accounts, and are there any specific rules for joint or minor accounts?",
+    "expected_answer": "The minimum opening balance requirements are $25.00 for checking accounts, $25.00 for savings accounts, and $25.00 combined deposit for joint accounts. For minor accounts, which are custodial accounts established for individuals under 18 years of age, the account is governed by the minor account guidelines and subject to the authority of a legally appointed guardian. Joint accounts have equal rights for two or more co-owners to deposit, withdraw, and view account activity.",
+    "chatbot_response": "I'm here to help you navigate the world of account openings and eligibility, and I want to make sure you have all the information you need to make informed decisions. The minimum opening balance requirement for checking accounts is $25.00, which is the initial deposit needed to activate a newly opened account [Source: s4_syn_account_opening_elig_0004]. Similarly, savings accounts also require a $25.00 minimum initial deposit to be opened [Source: s4_syn_account_opening_elig_0004]. For joint accounts, a minimum combined deposit of $25.00 is required, which is allocated proportionally among co-owners [Source: s4_syn_account_opening_elig_0004]. Minor accounts, which are custodial accounts established for individuals under 18 years of age, require a $25.00 minimum deposit, which may be contributed by the custodian or the minor's parent/guardian [Source: s4_syn_account_opening_elig_0004]. Joint account holders have equal rights to conduct all transactions, unless a specific limitation is documented in writing and signed by all parties [Source: s4_syn_account_opening_elig_0005]. Additionally, all joint owners are jointly and severally liable for any overdrafts, fees, or penalties incurred on the account [Source: s4_syn_account_opening_elig_0005]. Minor accounts can only be opened when a parent, legal guardian, or court-appointed conservator provides written authorization and presents valid identification [Source: s4_syn_account_opening_elig_0006]. The custodian retains full control over deposits, withdrawals, and account management until the minor reaches the age of majority or a court order terminates custodianship [Source: s4_syn_account_opening_elig_0006]. If you have any more questions or need further clarification on account openings or eligibility, please don't hesitate to ask, and I'll do my best to provide you with the information you need [Source: s4_syn_account_opening_elig_0004].",
+    "raw_answer": "I'm here to help you navigate the world of account openings and eligibility, and I want to make sure you have all the information you need to make informed decisions. The minimum opening balance requirement for checking accounts is $25.00, which is the initial deposit needed to activate a newly opened account [Source: s4_syn_account_opening_elig_0004]. Similarly, savings accounts also require a $25.00 minimum initial deposit to be opened [Source: s4_syn_account_opening_elig_0004]. For joint accounts, a minimum combined deposit of $25.00 is required, which is allocated proportionally among co-owners [Source: s4_syn_account_opening_elig_0004]. Minor accounts, which are custodial accounts established for individuals under 18 years of age, require a $25.00 minimum deposit, which may be contributed by the custodian or the minor's parent/guardian [Source: s4_syn_account_opening_elig_0004]. Joint account holders have equal rights to conduct all transactions, unless a specific limitation is documented in writing and signed by all parties [Source: s4_syn_account_opening_elig_0005]. Additionally, all joint owners are jointly and severally liable for any overdrafts, fees, or penalties incurred on the account [Source: s4_syn_account_opening_elig_0005]. Minor accounts can only be opened when a parent, legal guardian, or court-appointed conservator provides written authorization and presents valid identification [Source: s4_syn_account_opening_elig_0006]. The custodian retains full control over deposits, withdrawals, and account management until the minor reaches the age of majority or a court order terminates custodianship [Source: s4_syn_account_opening_elig_0006]. If you have any more questions or need further clarification on account openings or eligibility, please don't hesitate to ask, and I'll do my best to provide you with the information you need [Source: s4_syn_account_opening_elig_0004].",
+    "intent_predicted": "Regulatory",
+    "intent_conf": 0.832207202911377,
+    "is_oos_predicted": false,
+    "is_oos_true": false,
+    "confidence": {
+      "retrieval_confidence": 0.407,
+      "faithfulness_confidence": 0.9921,
+      "final_confidence": 0.7581,
+      "label": "HIGH"
+    },
+    "top_chunk_ids": [
+      "s4_syn_account_opening_elig_0004",
+      "s4_syn_account_opening_elig_0005",
+      "s4_syn_account_opening_elig_0006"
+    ],
+    "scores": {
+      "faithfulness": 5,
+      "completeness": 5,
+      "tone": 4,
+      "citation": "yes",
+      "reasoning": "The chatbot response accurately covers all key points from the expected answer, provides citations, and maintains a professional tone, although it could be slightly more empathetic."
+    }
+  },
+  {
+    "idx": 24,
+    "category": "OOS",
+    "question": "What are the best hiking trails in the Rocky Mountains?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Synthetic_Policies",
+    "intent_conf": 0.458260715007782,
+    "is_oos_predicted": true,
+    "is_oos_true": true,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": null,
+      "completeness": null,
+      "tone": 5,
+      "citation": "n/a",
+      "oos_pass": true,
+      "reasoning": "OOS \u2014 scored on correct refusal only"
+    }
+  },
+  {
+    "idx": 25,
+    "category": "OOS",
+    "question": "How do I make a perfect chicken parmesan?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.5128714442253113,
+    "is_oos_predicted": true,
+    "is_oos_true": true,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": null,
+      "completeness": null,
+      "tone": 5,
+      "citation": "n/a",
+      "oos_pass": true,
+      "reasoning": "OOS \u2014 scored on correct refusal only"
+    }
+  },
+  {
+    "idx": 26,
+    "category": "OOS",
+    "question": "What is the average airspeed velocity of a Boeing 747?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "chatbot_response": "\u26a0\ufe0f I must be honest with you \u2014 I have low confidence in this answer. The documents in my knowledge base do not appear to cover this topic sufficiently. Please treat the following as a starting point only and verify with a qualified human advisor before taking any action.\n\nI'm here to help you with your question, and I want to assure you that I'll do my best to provide a helpful response. The documents provided do not mention the average airspeed velocity of a Boeing 747, as they appear to be related to financial regulations and mortgage transactions [Source: s4_reg_regulation_z_3401]. The term \"average prime offer rate\" is defined in 1026.35(a)(2) as it relates to mortgage transactions [Source: s4_reg_regulation_z_3401]. A higher-priced mortgage loan is a consumer credit transaction secured by the consumer's principal dwelling with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction [Source: s4_reg_regulation_z_3584]. The table of average prime offer rates published by the bureau indicates how to identify the comparable transaction [Source: s4_reg_regulation_z_3584]. Average prime offer rates are annual percentage rates derived from average interest rates, points, and other loan pricing terms currently offered to consumers by a representative sample of creditors for mortgage transactions [Source: s4_reg_regulation_z_3586]. The bureau uses a survey of creditors that meets the criteria of 1026.35(a)(2) to obtain average prime offer rates [Source: s4_reg_regulation_z_3586]. Unfortunately, I couldn't find any information related to the average airspeed velocity of a Boeing 747 in the provided documents, and I don't want to provide any inaccurate information, so please let me know if there's anything else I can help you with.",
+    "raw_answer": "I'm here to help you with your question, and I want to assure you that I'll do my best to provide a helpful response. The documents provided do not mention the average airspeed velocity of a Boeing 747, as they appear to be related to financial regulations and mortgage transactions [Source: s4_reg_regulation_z_3401]. The term \"average prime offer rate\" is defined in 1026.35(a)(2) as it relates to mortgage transactions [Source: s4_reg_regulation_z_3401]. A higher-priced mortgage loan is a consumer credit transaction secured by the consumer's principal dwelling with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction [Source: s4_reg_regulation_z_3584]. The table of average prime offer rates published by the bureau indicates how to identify the comparable transaction [Source: s4_reg_regulation_z_3584]. Average prime offer rates are annual percentage rates derived from average interest rates, points, and other loan pricing terms currently offered to consumers by a representative sample of creditors for mortgage transactions [Source: s4_reg_regulation_z_3586]. The bureau uses a survey of creditors that meets the criteria of 1026.35(a)(2) to obtain average prime offer rates [Source: s4_reg_regulation_z_3586]. Unfortunately, I couldn't find any information related to the average airspeed velocity of a Boeing 747 in the provided documents, and I don't want to provide any inaccurate information, so please let me know if there's anything else I can help you with.",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.6731681823730469,
+    "is_oos_predicted": false,
+    "is_oos_true": true,
+    "confidence": {
+      "retrieval_confidence": 0.3376,
+      "faithfulness_confidence": 0.2358,
+      "final_confidence": 0.2765,
+      "label": "LOW"
+    },
+    "top_chunk_ids": [
+      "s4_reg_regulation_z_3401",
+      "s4_reg_regulation_z_3584",
+      "s4_reg_regulation_z_3586"
+    ],
+    "scores": {
+      "faithfulness": null,
+      "completeness": null,
+      "tone": 1,
+      "citation": "n/a",
+      "oos_pass": false,
+      "reasoning": "OOS \u2014 scored on correct refusal only"
+    }
+  },
+  {
+    "idx": 27,
+    "category": "OOS",
+    "question": "Can you recommend a good recipe for vegan chocolate cake?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Payment_Industry",
+    "intent_conf": 0.5197716951370239,
+    "is_oos_predicted": true,
+    "is_oos_true": true,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": null,
+      "completeness": null,
+      "tone": 5,
+      "citation": "n/a",
+      "oos_pass": true,
+      "reasoning": "OOS \u2014 scored on correct refusal only"
+    }
+  },
+  {
+    "idx": 28,
+    "category": "OOS",
+    "question": "What are the symptoms of a broken ankle?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Synthetic_Policies",
+    "intent_conf": 0.48880988359451294,
+    "is_oos_predicted": true,
+    "is_oos_true": true,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": null,
+      "completeness": null,
+      "tone": 5,
+      "citation": "n/a",
+      "oos_pass": true,
+      "reasoning": "OOS \u2014 scored on correct refusal only"
+    }
+  },
+  {
+    "idx": 29,
+    "category": "OOS",
+    "question": "How do I get rid of a stubborn stain on my carpet?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "chatbot_response": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "raw_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "intent_predicted": "Consumer_Protection",
+    "intent_conf": 0.5972588658332825,
+    "is_oos_predicted": true,
+    "is_oos_true": true,
+    "confidence": null,
+    "top_chunk_ids": [],
+    "scores": {
+      "faithfulness": null,
+      "completeness": null,
+      "tone": 5,
+      "citation": "n/a",
+      "oos_pass": true,
+      "reasoning": "OOS \u2014 scored on correct refusal only"
+    }
+  }
+]

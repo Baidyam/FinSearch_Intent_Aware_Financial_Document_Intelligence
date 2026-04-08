@@ -1,0 +1,212 @@
+[
+  {
+    "category": "Regulatory",
+    "question": "How does a creditor determine the interest rate for disclosure purposes when calculating the minimum payment, and what factors do they consider? What if there's no lifetime interest rate cap on the loan?",
+    "expected_answer": "When disclosing the minimum payment, the creditor assumes the interest rate will decrease as rapidly as possible after consummation, considering any introductory rates. For loans with no lifetime interest rate cap, the maximum rate is determined by other applicable laws, such as state usury law. The creditor must take into account the terms of the legal obligation, including any applicable caps on interest rate adjustments.",
+    "source_chunk_id": "s4_reg_regulation_z_4023",
+    "is_oos": false
+  },
+  {
+    "category": "Regulatory",
+    "question": "What are the requirements for disclosing late payment fees and penalty rates in lending documents under Regulation Z, and how should the text be formatted? I want to make sure I'm complying with the regulations.",
+    "expected_answer": "The disclosure of late payment fees and penalty rates must be made on the same line in tables due to their brief nature. The text must be displayed in a standard 10-point type or larger, with sufficient white space around the text and sufficient contrast between the text and the background. Additionally, the text should not be compressed to appear smaller than 10-point type, and sufficient margins should be provided above, below, and to the sides of the text.",
+    "source_chunk_id": "s4_reg_regulation_z_6124",
+    "is_oos": false
+  },
+  {
+    "category": "Regulatory",
+    "question": "How do card issuers allocate excess payments to different balances on a credit card account under an open-end consumer credit plan? Are there any special rules I should be aware of?",
+    "expected_answer": "The card issuer must allocate the excess amount first to the balance with the highest annual percentage rate and any remaining portion to the other balances in descending order based on the applicable annual percentage rate. There are special rules for accounts with balances subject to deferred interest or similar programs, which provide that a consumer will not be obligated to pay interest under certain conditions. These rules apply to credit card accounts under open-end, not home-secured, consumer credit plans. The specific details of these special rules are not fully outlined in this excerpt, but they do exist for certain types of accounts.",
+    "source_chunk_id": "s4_reg_regulation_z_1189",
+    "is_oos": false
+  },
+  {
+    "category": "Regulatory",
+    "question": "How do I disclose the total of payments in a financial document, and are there any specific requirements I need to follow? What about variable rate features?",
+    "expected_answer": "The total of payments must be disclosed using that term, along with a descriptive phrase similar to the one in the regulation. The descriptive explanation may be revised to reflect a variable rate feature with a brief description. This disclosure is required under paragraph 18(h) and applies separately from the payment schedule disclosure in section 1026.18(g)(2).",
+    "source_chunk_id": "s4_reg_regulation_z_2771",
+    "is_oos": false
+  },
+  {
+    "category": "Regulatory",
+    "question": "What are the model forms required for remittance transfers exchanged into local currency under the Electronic Fund Transfer Act, and where can I find more information?",
+    "expected_answer": "The model forms required for remittance transfers exchanged into local currency include prepayment disclosures, receipts, combined disclosures, and error resolution and cancellation disclosures, which can be found in sections 12 CFR 1005.31(b)(1), 12 CFR 1005.31(b)(2), 12 CFR 1005.31(b)(3), and 12 CFR 1005.31(b)(4) respectively. These forms are provided in Spanish and are referenced in the provided regulatory excerpt.",
+    "source_chunk_id": "s4_reg_efta_0318",
+    "is_oos": false
+  },
+  {
+    "category": "Regulatory",
+    "question": "Can a creditor have different maximum interest rates for different features of a loan, and are there any restrictions on the interest rate that can be charged after a default? What are the rules around this?",
+    "expected_answer": "According to Regulation Z, a creditor may set one maximum interest rate for the initially imposed index-based variable-rate feature and another for the conversion option, or establish one maximum interest rate applicable to all features. The interest rate charged after default is subject to a maximum interest rate set forth in the credit obligation, although state law may allow for a higher rate than the contract rate in effect at the time of default. This means that while state law may permit a higher interest rate after default, it is still capped by the maximum rate specified in the credit agreement.",
+    "source_chunk_id": "s4_reg_regulation_z_3387",
+    "is_oos": false
+  },
+  {
+    "category": "Consumer_Protection",
+    "question": "What are my options for repaying federal student loans, and how do the repayment terms differ? Are there plans that consider my income and family size?",
+    "expected_answer": "The government offers different repayment terms for federal student loans, including options with longer repayment periods and lower monthly payments. Some repayment plans are based on discretionary income, which is defined as the difference between your adjusted income and a certain amount. Income-driven repayment plans take into account your income and family size when determining your monthly payment. These plans may have lower monthly payments, but often result in paying more over the life of the loan.",
+    "source_chunk_id": "s4_con_cfpb_consumer_toolki_0328",
+    "is_oos": false
+  },
+  {
+    "category": "Consumer_Protection",
+    "question": "How do I calculate my total income and expenses for week 1, and what do I do with the results? I want to make sure I'm tracking my finances correctly.",
+    "expected_answer": "To calculate your total income and expenses for week 1, start by writing down the amounts you receive from various categories and add them up to get your total income. Then, write down the amounts you spend during week 1 and subtract these expenses from your total income. This will give you the result of your income minus expenses for week 1. You should enter this result as instructed, but the excerpt does not specify what to do with it next.",
+    "source_chunk_id": "s4_con_cfpb_consumer_toolki_0247",
+    "is_oos": false
+  },
+  {
+    "category": "Consumer_Protection",
+    "question": "I have a trust account with multiple beneficiaries, how much insurance coverage can I expect as of April 1, 2024? Is there a limit per owner?",
+    "expected_answer": "As of April 1, 2024, the maximum insurance coverage for a trust owner with five or more beneficiaries is $1,250,000 per owner. This means that each owner of the trust account is eligible for up to $1,250,000 in insurance coverage, regardless of the number of beneficiaries. This change applies to trust accounts held by one or more owners under various types of trusts, including informal revocable trusts and irrevocable trusts.",
+    "source_chunk_id": "s4_con_fdic_deposit_insuran_0024",
+    "is_oos": false
+  },
+  {
+    "category": "Consumer_Protection",
+    "question": "I've decided to start saving money, but I'm not sure where to keep it. What are some things I should consider when choosing a place to store my savings?",
+    "expected_answer": "When deciding where to keep your savings, you should consider how secure it is, whether there are costs associated with keeping it there, and other factors. You have many options, each with specific risks and benefits. It's essential to think about these factors to ensure you choose a safe and suitable place for your savings. This will help you make an informed decision about where to store your money.",
+    "source_chunk_id": "s4_con_cfpb_consumer_toolki_0145",
+    "is_oos": false
+  },
+  {
+    "category": "Consumer_Protection",
+    "question": "I'm thinking of using my prepaid card to withdraw cash, but I want to know about the fees. Are there any differences in fees for in-network versus out-of-network ATMs?",
+    "expected_answer": "The fees for withdrawing money from an ATM can vary depending on whether the ATM is in-network or out-of-network. You may pay zero or smaller ATM fees by using your prepaid card at in-network ATMs, depending on the terms of your cardholder agreement. It's also worth noting that your payroll card may allow you a certain number of free ATM withdrawals each month. You should check your cardholder agreement to determine the specific fees associated with your card.",
+    "source_chunk_id": "s4_con_cfpb_consumer_toolki_0496",
+    "is_oos": false
+  },
+  {
+    "category": "Consumer_Protection",
+    "question": "How often can I get a free credit report from each of the major credit reporting companies, and what are some strategies for requesting them?",
+    "expected_answer": "You can get a free credit report from each company, Experian, Equifax, and TransUnion, once every 12 months. To stay on top of your credit reports, you can request them on three separate dates or on a single date, choosing a date that's easy to remember, such as a birthday or holiday. Requesting reports on three different dates throughout the year can help you monitor any changes. This allows you to keep track of your credit reports and identify any potential issues.",
+    "source_chunk_id": "s4_con_cfpb_consumer_toolki_0405",
+    "is_oos": false
+  },
+  {
+    "category": "Payment_Industry",
+    "question": "What is the role of China Switch in payment processing and what happens when a customer determines an error has been made?",
+    "expected_answer": "The China Switch (CSW) processes authorization, clearing, and settlement in a single message for mainland China domestic transactions. When a customer determines an error has been made, they can correct the error through an adjustment, which may lead to a chargeback option for the issuer if processed by an acquirer. The acquirer can perform adjustments using specific reason codes, as outlined in the rules and procedures for adjustments switched in China Switch.",
+    "source_chunk_id": "s4_pay_mastercard_chargebac_4055",
+    "is_oos": false
+  },
+  {
+    "category": "Payment_Industry",
+    "question": "What is PCI DSS and who does it apply to? I'm a merchant who accepts payment cards and I want to understand my security obligations.",
+    "expected_answer": "PCI DSS applies to you if you accept payment cards, as it is a set of security standards designed to protect cardholder data. The PCI Security Standards Council has established these standards to address critical security controls, including the installation of PIN Transaction Security (PTS) requirements for merchant payment systems. The PTS standards focus on the characteristics and management of devices used to reduce merchant risk and mitigate the protection of cardholder PINs and other payment processing related activities.",
+    "source_chunk_id": "s4_pay_pci_dss_quick_refere_0021",
+    "is_oos": false
+  },
+  {
+    "category": "Payment_Industry",
+    "question": "What happens if a chargeback or second presentment message is inaccurate, and how does it affect the transaction process? Can you explain the concept of 'inaccurate' in this context?",
+    "expected_answer": "If a chargeback or second presentment message is inaccurate, it can cause a valid chargeback cycle to be rejected or unprocessed, resulting in a financial loss for the filing customer. Inaccurate data refers to information that does not accurately reflect the conditions present at the point of interaction during the transaction or data that does not match the authorization message. This inaccuracy can lead to issues with the transaction process, particularly when the filing customer is the issuer. The issuer must then file a pre-compliance case in a timely manner to address the issue.",
+    "source_chunk_id": "s4_pay_mastercard_chargebac_3692",
+    "is_oos": false
+  },
+  {
+    "category": "Payment_Industry",
+    "question": "What happens if the issuer files a pre-arbitration case before the required time frame has expired, and can they still accept supporting documentation after that point? ",
+    "expected_answer": "Mastercard will consider the pre-arbitration case invalid if the issuer files it before the applicable second presentment supporting documentation time frame has expired. The issuer must accept supporting documentation as long as they have not processed a pre-arbitration case filing, regardless of the timing. However, there are specific time frames to consider, including a protected three-business day time frame for receiving second presentment supporting documentation.",
+    "source_chunk_id": "s4_pay_mastercard_chargebac_1499",
+    "is_oos": false
+  },
+  {
+    "category": "Payment_Industry",
+    "question": "What happens if a transaction between a European acquirer and a non-European issuer has already been presented, and a second presentment is attempted? Can the acquirer still rectify the situation?",
+    "expected_answer": "Mastercard uses message reason code 4804 to automatically charge back any transaction between a European acquirer and a non-European issuer if a previous presentment had already been matched to the pending file. Second presentments are not permitted. However, the acquirer may rectify the transaction details and submit a new first presentment. This allows the acquirer to correct any errors and resubmit the transaction for processing.",
+    "source_chunk_id": "s4_pay_mastercard_chargebac_3296",
+    "is_oos": false
+  },
+  {
+    "category": "Payment_Industry",
+    "question": "What happens when an issuer rejects a pre-arbitration case and still believes the chargeback is valid? Can they escalate it to an arbitration case?",
+    "expected_answer": "Yes, an issuer may escalate the pre-arbitration to an arbitration case upon rejection of the pre-arbitration case if they continue to believe the chargeback is valid and the acquirer failed to remedy the pre-arbitration case. This is also applicable in cases of a change of reason code where both the original chargeback and the cardholder dispute chargeback are valid. The central site business date of the disputed transaction is counted as day zero for these cases.",
+    "source_chunk_id": "s4_pay_mastercard_chargebac_1894",
+    "is_oos": false
+  },
+  {
+    "category": "Synthetic_Policies",
+    "question": "What is the purpose of the Account Takeover Response Policy, and who is it intended for?",
+    "expected_answer": "The Account Takeover Response Policy is intended to establish a standardized procedure for detecting, containing, investigating, and resolving suspected account takeover incidents. The primary objectives of this policy are to minimize financial loss to customers and the bank, as well as ensure regulatory compliance. This policy is specifically intended for use by fraud investigators. Its scope applies to all retail and small business banking channels.",
+    "source_chunk_id": "s4_syn_account_takeover_ato_0000",
+    "is_oos": false
+  },
+  {
+    "category": "Synthetic_Policies",
+    "question": "What kind of evidence is required for a fraud dispute, and are there any specific documents I need to provide?",
+    "expected_answer": "For a fraud dispute, the required evidence includes a police report if filed, an affidavit of fraud, proof of non-receipt of the card, and account statements showing a pattern. Additionally, communication with the merchant may be necessary to resolve the dispute. It's essential to provide as much documentation as possible to support the claim of fraud.",
+    "source_chunk_id": "s4_syn_chargeback_filing_ev_0001",
+    "is_oos": false
+  },
+  {
+    "category": "Synthetic_Policies",
+    "question": "How do I understand a payment decline response and what information should I prioritize when reviewing it?",
+    "expected_answer": "A payment decline is communicated via an ISO-8583 response code or a gateway-specific descriptive code, which is then translated into a primary error code and often includes a supplemental 'issuer message' or 'bank response text'. Merchants should prioritize the primary error code as it provides the actionable classification, such as 'insufficient funds'. Additionally, reviewing the issuer message provides context from the cardholder's bank, offering more detailed information, like 'insufficient available balance'.",
+    "source_chunk_id": "s4_syn_payment_failure_erro_0001",
+    "is_oos": false
+  },
+  {
+    "category": "Synthetic_Policies",
+    "question": "How are cash advance limits determined for a credit card, and is there a maximum limit I should be aware of?",
+    "expected_answer": "Cash advance limits are determined based on an individual cardholder's creditworthiness, credit history, and current account activity. Generally, cash advance limits are capped at 25% of the cardholder's approved credit limit. This means that the amount you can withdraw as a cash advance is a percentage of your total available credit.",
+    "source_chunk_id": "s4_syn_loan_credit_card_cas_0001",
+    "is_oos": false
+  },
+  {
+    "category": "Synthetic_Policies",
+    "question": "How does the settlement schedule work for new merchants and what factors can affect it? I'm trying to understand the payment terms for my business.",
+    "expected_answer": "For new merchants, the standard settlement terms are T + 2 for the first 90 days, while established merchants with good standing typically have T + 1 settlement terms. However, settlement schedules may be adjusted based on risk assessment, processing volume, and other factors. This means that the settlement terms can change over time as the merchant's risk profile and processing history are evaluated.",
+    "source_chunk_id": "s4_syn_merchant_onboarding__0003",
+    "is_oos": false
+  },
+  {
+    "category": "Synthetic_Policies",
+    "question": "What are the minimum opening balance requirements for different types of accounts, and are there any specific rules for joint or minor accounts?",
+    "expected_answer": "The minimum opening balance requirements are $25.00 for checking accounts, $25.00 for savings accounts, and $25.00 combined deposit for joint accounts. For minor accounts, which are custodial accounts established for individuals under 18 years of age, the account is governed by the minor account guidelines and subject to the authority of a legally appointed guardian. Joint accounts have equal rights for two or more co-owners to deposit, withdraw, and view account activity.",
+    "source_chunk_id": "s4_syn_account_opening_elig_0004",
+    "is_oos": false
+  },
+  {
+    "category": "OOS",
+    "question": "What are the best hiking trails in the Rocky Mountains?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "source_chunk_id": null,
+    "is_oos": true
+  },
+  {
+    "category": "OOS",
+    "question": "How do I make a perfect chicken parmesan?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "source_chunk_id": null,
+    "is_oos": true
+  },
+  {
+    "category": "OOS",
+    "question": "What is the average airspeed velocity of a Boeing 747?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "source_chunk_id": null,
+    "is_oos": true
+  },
+  {
+    "category": "OOS",
+    "question": "Can you recommend a good recipe for vegan chocolate cake?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "source_chunk_id": null,
+    "is_oos": true
+  },
+  {
+    "category": "OOS",
+    "question": "What are the symptoms of a broken ankle?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "source_chunk_id": null,
+    "is_oos": true
+  },
+  {
+    "category": "OOS",
+    "question": "How do I get rid of a stubborn stain on my carpet?",
+    "expected_answer": "Thank you so much for reaching out to FinSearch.\n\nI appreciate you taking the time to ask, and I want to be completely transparent with you \u2014 your question falls outside the areas I'm trained to assist with. I specialise in financial regulations, payment industry standards, consumer protection policies, and related financial document topics.\n\nI genuinely wouldn't want to provide you with inaccurate or incomplete guidance on something outside my expertise. For the best and most reliable help, I'd warmly recommend speaking with a qualified human advisor who can give your question the personalised attention it deserves.\n\nIf you have any questions about financial regulations, payment standards, consumer protection, or related policies \u2014 I'm right here and happy to help!",
+    "source_chunk_id": null,
+    "is_oos": true
+  }
+]
