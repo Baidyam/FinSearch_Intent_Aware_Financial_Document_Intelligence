@@ -11,3 +11,4 @@ index/query_log.jsonl
 __pycache__/
 *.pyc
 .env
+venv311/
