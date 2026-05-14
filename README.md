@@ -729,6 +729,9 @@ User Query
               Citations + Confidence Badge + Source Chips
               Logged to index/query_log.jsonl
 ```
+### This opens at
+http://localhost:8501 
+###
 
 ### Key Production Design Decisions
 
